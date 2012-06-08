@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+    <head>
+    	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    	<meta name="description" edit="words game">
+    	<meta name="keywords" edit="words, game">
+
+        <title>
+            Words
+        </title>
+
+        <link rel="stylesheet" href="./css/reset.css" type="text/css">
+        <link rel="stylesheet" href="./css/main.css" type="text/css">
+
+        <script type="text/javascript" src="./js/lib/angular/angular.js"></script>
+        <script type="text/javascript" src="./js/lib/jquery/jquery-1.7.2.min.js"></script>
+
+        <script type="text/javascript" src="./js/main.js"></script>
+    </head>
+    <body>
+		<div ng-app>
+			<div ng-controller="WordCtrl">
+				<div id="wrapper">
+					<div>rico, sabroso</div>
+					<div class="char-box char-box-{{pointer[$index]}}" ng-repeat="char in word">
+						<div class="char char-{{status[$index]}}">{{input[$index]}}</div>
+					</div>
+				</div>
+				<div id="hint" ng-click="hintLetter()">hint</div>
+			</div>
+		</div>
+    </body>
+</html>
