@@ -25,7 +25,7 @@ function WordCtrl($scope)
         for (i = 0 ; i < len ; i++)
         {
             $scope.letters.push($scope.word[i]);
-            $scope.status.push(E);
+            $scope.status.push(initialStatus);
             $scope.input.push(initialChar);
             $scope.pointer.push(false);
         }
