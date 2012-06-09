@@ -1,16 +1,36 @@
 
 function WordCtrl($scope)
 {
-  
-     var E = 'empty';
-     var C = 'correct';
-     var I = 'incorrect';
-     var H = 'hint';
-  
-    $scope.word    = ['l', 'e', 'k', 'k', 'e', 'r'];
-    $scope.status  = [E, E, E, E, E, E];
-    $scope.input   = ['.', '.', '.', '.', '.', '.'];
-    $scope.pointer = [true, false, false, false, false, false];
+
+    $scope.initialWord = 'prima';
+
+    var E = 'empty';
+    var C = 'correct';
+    var I = 'incorrect';
+    var H = 'hint';
+
+    var initialChar   = '·';
+    var initialStatus = E;
+
+    $scope.word    = new Array();
+    $scope.status  = new Array();
+    $scope.input   = new Array();
+    $scope.pointer = new Array();
+
+    function initializeWord ()
+    {
+        var len = $scope.initialWord.length;
+        for (i = 0 ; i < len ; i++)
+        {
+            $scope.word.push($scope.initialWord[i]);
+            $scope.status.push(E);
+            $scope.input.push(initialChar);
+            $scope.pointer.push(false);
+        }
+        $scope.pointer[0] = true;
+    }
+
+    initializeWord();
 
     function getPointer()
     {
@@ -69,7 +89,7 @@ function WordCtrl($scope)
             $scope.pointer[i] = false;
             if ($scope.status[i] != H)
             {
-                $scope.input[i] = '.';
+                $scope.input[i] = initialChar;
                 $scope.status[i] = E;
             }
         }
@@ -101,7 +121,7 @@ function WordCtrl($scope)
         {
             if ($scope.status[pos] != H)
             {
-                $scope.input[pos] = '.';
+                $scope.input[pos] = initialChar;
                 $scope.status[pos] = E;
             }
             $scope.pointerDown(pos);
