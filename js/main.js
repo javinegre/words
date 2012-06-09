@@ -14,15 +14,14 @@ function WordCtrl($scope)
     var initialChar   = '·';
     var initialStatus = E;
 
-    $scope.letters = new Array();
-    $scope.status  = new Array();
-    $scope.input   = new Array();
-    $scope.pointer = new Array();
-    $scope.wordLength = 0;
-    $scope.result = false;
-
     function initializeWord ()
     {
+        $scope.letters = new Array();
+        $scope.status  = new Array();
+        $scope.input   = new Array();
+        $scope.pointer = new Array();
+        $scope.result = false;
+
         $scope.wordLength = $scope.word.length;
         for (i = 0 ; i < $scope.wordLength ; i++)
         {
@@ -32,6 +31,14 @@ function WordCtrl($scope)
             $scope.pointer.push(false);
         }
         $scope.pointer[0] = true;
+    }
+
+    $scope.changeWord = function()
+    {
+        $scope.word        = 'geel';
+        $scope.translation = 'yellow';
+        $scope.meanings    = [];
+        initializeWord();
     }
 
     initializeWord();
