@@ -2,7 +2,9 @@
 function WordCtrl($scope)
 {
 
-    $scope.word = 'prima';
+    $scope.word        = 'lekker';
+    $scope.translation = 'nice';
+    $scope.meanings    = ['delicious', 'tasty'];
 
     var E = 'empty';
     var C = 'correct';

@@ -20,13 +20,25 @@
     <body>
 		<div ng-app>
 			<div ng-controller="WordCtrl">
-				<div id="wrapper">
-					<div>rico, sabroso</div>
-					<div class="char-box char-box-{{pointer[$index]}}" ng-repeat="char in word">
-						<div class="char char-{{status[$index]}}">{{input[$index]}}</div>
-					</div>
+				<div id="game-wrapper">
+                    <div id="translation-wrapper">
+                        <div id="translation-translation">
+                            <div id="translation-word">
+                                {{translation}}
+                            </div>
+                        </div>
+                        <ul id="translation-meanings">
+                            <li ng-repeat="meaning in meanings">{{meaning}}</li>
+                        </ul>
+                        <div class="clearBoth"></div>
+                    </div>
+                    <div id="word-wrapper">
+                        <div class="char-box char-box-{{pointer[$index]}}" ng-repeat="char in word">
+                            <div class="char char-{{status[$index]}}">{{input[$index]}}</div>
+                        </div>
+                    </div>
+                    <div class="clearBoth"></div>
 				</div>
-				<div id="hint" ng-click="hintLetter()">hint</div>
 			</div>
 		</div>
     </body>
