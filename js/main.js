@@ -87,7 +87,11 @@ function WordCtrl($scope)
         pos = getPointer();
 
         var charCode = (typeof e.which == "number") ? e.which : e.keyCode
-        if (charCode >= 65 && charCode <= 90
+        if (e.shiftKey === true && charCode == 72)
+        {
+            $scope.hintLetter();
+        }
+        else if (charCode >= 65 && charCode <= 90
             //|| charCode >= 97 && charCode <= 122
         )
         {
