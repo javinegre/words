@@ -88,6 +88,14 @@ ul#translation-meanings li {
     color: #DDDDDD !important;
 }
 
+.check-true {
+    float: left;
+    margin: 0px 0px 0px 15px;
+    background-image: url('../images/icons/check.png');
+    width: 32px;
+    height: 32px;
+}
+
 #hint {
     clear: left;
     margin: 5px 10px 0px 10px;

@@ -18,11 +18,13 @@ function WordCtrl($scope)
     $scope.status  = new Array();
     $scope.input   = new Array();
     $scope.pointer = new Array();
+    $scope.wordLength = 0;
+    $scope.result = false;
 
     function initializeWord ()
     {
-        var len = $scope.word.length;
-        for (i = 0 ; i < len ; i++)
+        $scope.wordLength = $scope.word.length;
+        for (i = 0 ; i < $scope.wordLength ; i++)
         {
             $scope.letters.push($scope.word[i]);
             $scope.status.push(initialStatus);
@@ -36,9 +38,8 @@ function WordCtrl($scope)
 
     function getPointer()
     {
-        len = $scope.letters.length;
         var pos = -1;
-        for (i = 0 ; i < len ; i++)
+        for (i = 0 ; i < $scope.wordLength ; i++)
         {
             if ($scope.pointer[i]=== true)
             {
@@ -57,7 +58,7 @@ function WordCtrl($scope)
             ? pos+1
             : pos-1;
         if ( newpos < 0 ) { newpos = 0; }
-        else if ( newpos >= len ) { newpos = len-1; }
+        else if ( newpos >= $scope.wordLength ) { newpos = $scope.wordLength-1; }
         $scope.pointer[newpos] = true;
     }
 
@@ -85,8 +86,7 @@ function WordCtrl($scope)
       
     $scope.resetWord = function()
     {
-        len = $scope.letters.length;
-        for (i = 0 ; i < len ; i++)
+        for (i = 0 ; i < $scope.wordLength ; i++)
         {
             $scope.pointer[i] = false;
             if ($scope.status[i] != H)
@@ -104,7 +104,25 @@ function WordCtrl($scope)
         $scope.input[i] = $scope.letters[i];
         $scope.status[i] = H;
     }
-          
+
+    $scope.checkResult = function ()
+    {
+        hits = 0;
+        for (i = 0 ; i < $scope.wordLength ; i++)
+        {
+            if ($scope.status[i] == C
+                || $scope.status[i] == H
+            )
+            {
+                ++hits;
+            }
+        }
+        if (hits == $scope.wordLength)
+        {
+            $scope.result = true;
+        }
+    }
+
     $(document).keydown(function(e){
         pos = getPointer();
 
@@ -118,6 +136,7 @@ function WordCtrl($scope)
         )
         {
             $scope.updChar(pos, charCode);
+            $scope.checkResult();
         }
         else if (charCode == 8) // Backspace
         {
