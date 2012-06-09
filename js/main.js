@@ -107,9 +107,22 @@ function WordCtrl($scope)
       
     $scope.hintLetter = function()
     {
-        var i = 3;
-        $scope.input[i] = $scope.letters[i];
-        $scope.status[i] = H;
+        var pos = -1;
+        for (i = 0 ; i < $scope.wordLength ; i++)
+        {
+            if ($scope.status[i]== E
+                || $scope.status[i] == I
+            )
+            {
+                pos = i;
+                break;
+            }
+        }
+        if (pos >= 0)
+        {
+            $scope.input[pos] = $scope.letters[pos];
+            $scope.status[pos] = H;
+        }
     }
 
     $scope.checkResult = function ()
@@ -143,7 +156,6 @@ function WordCtrl($scope)
         )
         {
             $scope.updChar(pos, charCode);
-            $scope.checkResult();
         }
         else if (charCode == 8) // Backspace
         {
@@ -158,6 +170,7 @@ function WordCtrl($scope)
         {
             $scope.resetWord();
         }
+        $scope.checkResult();
         $scope.$apply();
     });
 }
