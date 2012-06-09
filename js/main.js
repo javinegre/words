@@ -2,7 +2,7 @@
 function WordCtrl($scope)
 {
 
-    $scope.initialWord = 'prima';
+    $scope.word = 'prima';
 
     var E = 'empty';
     var C = 'correct';
@@ -12,17 +12,17 @@ function WordCtrl($scope)
     var initialChar   = '·';
     var initialStatus = E;
 
-    $scope.word    = new Array();
+    $scope.letters = new Array();
     $scope.status  = new Array();
     $scope.input   = new Array();
     $scope.pointer = new Array();
 
     function initializeWord ()
     {
-        var len = $scope.initialWord.length;
+        var len = $scope.word.length;
         for (i = 0 ; i < len ; i++)
         {
-            $scope.word.push($scope.initialWord[i]);
+            $scope.letters.push($scope.word[i]);
             $scope.status.push(E);
             $scope.input.push(initialChar);
             $scope.pointer.push(false);
@@ -34,7 +34,7 @@ function WordCtrl($scope)
 
     function getPointer()
     {
-        len = $scope.word.length;
+        len = $scope.letters.length;
         var pos = -1;
         for (i = 0 ; i < len ; i++)
         {
@@ -73,7 +73,7 @@ function WordCtrl($scope)
         if ($scope.status[pos] != H)
         {
             $scope.input[pos] = String.fromCharCode(charCode + 32);
-            var newStatus = $scope.input[pos] == $scope.word[pos]
+            var newStatus = $scope.input[pos] == $scope.letters[pos]
                 ? C
                 : I;
             $scope.status[pos] = newStatus;
@@ -83,7 +83,7 @@ function WordCtrl($scope)
       
     $scope.resetWord = function()
     {
-        len = $scope.word.length;
+        len = $scope.letters.length;
         for (i = 0 ; i < len ; i++)
         {
             $scope.pointer[i] = false;
@@ -99,7 +99,7 @@ function WordCtrl($scope)
     $scope.hintLetter = function()
     {
         var i = 3;
-        $scope.input[i] = $scope.word[i];
+        $scope.input[i] = $scope.letters[i];
         $scope.status[i] = H;
     }
           
