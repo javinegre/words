@@ -21,7 +21,18 @@
     <body>
 		<div ng-app>
 			<div ng-controller="WordCtrl">
-				<div id="game-wrapper">
+                <div id="shorcuts-wrapper">
+                    <span>shorcuts: </span>
+                    <div>
+                        <span>shift + H</span>
+                        hint
+                    </div>
+                    <div>
+                        <span>shift + N</span>
+                        new word
+                    </div>
+                </div>
+                <div id="game-wrapper">
                     <div id="get-list-wrapper" ng-show="wordsList.length == 0 && word.length == 0">
                         <span ng-click="getWords()">Get words!</span>
                     </div>

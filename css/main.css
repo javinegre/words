@@ -141,3 +141,31 @@ ul#translation-meanings li {
     padding: 0px 6px 0px 0px;
     font-size: 0.8em;
 }
+
+#shorcuts-wrapper {
+    margin: 35px 12% 0px 12%;
+}
+
+#shorcuts-wrapper > span {
+    color: #A0A0A0;
+    padding: 0px 10px 0px 0px;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+#shorcuts-wrapper div {
+    margin: 0px 10px;
+    background-color: #F8F8F8;
+    padding: 2px 5px;
+    display: inline;
+    color:  #444444;
+    font-size: 0.9em;
+}
+
+#shorcuts-wrapper div span {
+    display: inline;
+    border: 1px solid #E0E0E0;
+    padding: 1px 4px;
+    color: #666666;
+    border-radius: 3px;
+}
