@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="./css/reset.css" type="text/css">
         <link rel="stylesheet" href="./css/main.css" type="text/css">
 
+        <script type="text/javascript" src="./js/dummy/data.js"></script>
         <script type="text/javascript" src="./js/lib/angular/angular.js"></script>
         <script type="text/javascript" src="./js/lib/jquery/jquery-1.7.2.min.js"></script>
 
@@ -21,7 +22,10 @@
 		<div ng-app>
 			<div ng-controller="WordCtrl">
 				<div id="game-wrapper">
-                    <div id="translation-wrapper">
+                    <div ng-show="wordsList.length == 0">
+                        <span ng-click="getWords()">Get words!</span>
+                    </div>
+                    <div ng-show="wordsList.length > 0" id="translation-wrapper">
                         <div id="translation-translation">
                             <div id="translation-word">
                                 {{translation}}
@@ -32,7 +36,7 @@
                         </ul>
                         <div class="clearBoth"></div>
                     </div>
-                    <div id="word-wrapper">
+                    <div ng-show="word.length > 0" id="word-wrapper">
                         <div class="char-box char-box-{{pointer[$index]}}" ng-repeat="char in word">
                             <div class="char char-{{status[$index]}}">{{input[$index]}}</div>
                         </div>

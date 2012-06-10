@@ -2,9 +2,11 @@
 function WordCtrl($scope)
 {
 
-    $scope.word        = 'lekker';
-    $scope.translation = 'nice';
-    $scope.meanings    = ['delicious', 'tasty'];
+    $scope.wordsList = [];
+
+    $scope.word        = '';
+    $scope.translation = '';
+    $scope.meanings    = [];
 
     var E = 'empty';
     var C = 'correct';
@@ -40,8 +42,6 @@ function WordCtrl($scope)
         $scope.meanings    = [];
         initializeWord();
     }
-
-    initializeWord();
 
     function getPointer()
     {
@@ -142,6 +142,31 @@ function WordCtrl($scope)
             $scope.result = true;
         }
     }
+
+    $scope.getWords = function()
+    {
+        $scope.wordsList = serverData;
+        $scope.newWord();
+    }
+
+    $scope.newWord = function ()
+    {
+        if ($scope.wordsList.length > 0)
+        {
+            var newWord = $scope.wordsList.pop();
+            $scope.word        = newWord.w;
+            $scope.translation = newWord.t;
+            $scope.meanings    = newWord.m;
+            initializeWord();
+        }
+        else
+        {
+            $scope.word        = '';
+            $scope.translation = '';
+            $scope.meanings    = [];
+        }
+    }
+
 
     $(document).keydown(function(e){
         pos = getPointer();
