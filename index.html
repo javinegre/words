@@ -22,7 +22,7 @@
 		<div ng-app>
 			<div ng-controller="WordCtrl">
 				<div id="game-wrapper">
-                    <div ng-show="wordsList.length == 0 && word.length == 0">
+                    <div id="get-list-wrapper" ng-show="wordsList.length == 0 && word.length == 0">
                         <span ng-click="getWords()">Get words!</span>
                     </div>
                     <div ng-show="word.length > 0" id="translation-wrapper">
@@ -43,7 +43,7 @@
                         <div class="check-{{result}}"></div>
                     </div>
                     <div class="clearBoth"></div>
-                    <div ng-show="solvedWords.length > 0 && wordsList.length >= 0">
+                    <div ng-show="solvedWords.length > 0 && wordsList.length >= 0" id="solved-words">
                         <ul>
                             <li ng-repeat="solved in solvedWords"><span>{{solved[0]}}</span>{{solved[1]}}</li>
                         </ul>
