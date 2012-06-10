@@ -179,30 +179,44 @@ function WordCtrl($scope)
         pos = getPointer();
 
         var charCode = (typeof e.which == "number") ? e.which : e.keyCode
-        if (e.shiftKey === true && charCode == 72)
+
+        // Shortcuts
+        if (e.shiftKey === true)
         {
-            $scope.hintLetter();
-        }
-        else if (charCode >= 65 && charCode <= 90
-            //|| charCode >= 97 && charCode <= 122
-        )
-        {
-            $scope.updChar(pos, charCode);
-        }
-        else if (charCode == 8) // Backspace
-        {
-            if ($scope.status[pos] != H)
+            // [shift + H]
+            if (charCode == 72)
             {
-                $scope.input[pos] = initialChar;
-                $scope.status[pos] = E;
+                $scope.hintLetter();
             }
-            $scope.pointerDown(pos);
+            // [shift + N]
+            else if (charCode == 78)
+            {
+                $scope.nextWord();
+            }
         }
-        else if (charCode == 32) // Space
+        else
         {
-            $scope.resetWord();
+            if (charCode >= 65 && charCode <= 90
+                //|| charCode >= 97 && charCode <= 122
+            )
+            {
+                $scope.updChar(pos, charCode);
+            }
+            else if (charCode == 8) // Backspace
+            {
+                if ($scope.status[pos] != H)
+                {
+                    $scope.input[pos] = initialChar;
+                    $scope.status[pos] = E;
+                }
+                $scope.pointerDown(pos);
+            }
+            else if (charCode == 32) // Space
+            {
+                $scope.resetWord();
+            }
+            $scope.checkResult();
         }
-        $scope.checkResult();
         $scope.$apply();
     });
 }
