@@ -2,7 +2,8 @@
 function WordCtrl($scope)
 {
 
-    $scope.wordsList = [];
+    $scope.wordsList   = [];
+    $scope.solvedWords = [];
 
     $scope.word        = '';
     $scope.translation = '';
@@ -146,6 +147,7 @@ function WordCtrl($scope)
     $scope.getWords = function()
     {
         $scope.wordsList = serverData;
+        $scope.solvedWords = [];
         $scope.newWord();
     }
 
@@ -167,6 +169,11 @@ function WordCtrl($scope)
         }
     }
 
+    $scope.nextWord = function ()
+    {
+        $scope.solvedWords.push([$scope.translation, $scope.word]);
+        $scope.newWord();
+    }
 
     $(document).keydown(function(e){
         pos = getPointer();
