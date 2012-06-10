@@ -3,6 +3,10 @@ body {
     font-family: sans-serif;
 }
 
+.clearBoth {
+    clear: both;
+}
+
 #game-wrapper {
     margin: 60px 5% 0px 5%;
 }
