@@ -48,7 +48,7 @@
                         <div class="clearBoth"></div>
                     </div>
                     <div ng-show="word.length > 0" id="word-wrapper">
-                        <div class="char-box char-box-{{pointer[$index]}}" ng-repeat="char in word">
+                        <div class="char-box char-box-{{getCharSelected($index)}}" ng-repeat="char in word">
                             <div class="char char-{{status[$index]}}">{{input[$index]}}</div>
                         </div>
                         <div class="check-{{result}}"></div>

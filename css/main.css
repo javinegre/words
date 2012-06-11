@@ -72,11 +72,11 @@ ul#translation-meanings li {
     border-radius: 2px;
 }
 
-.char-box-true {
+.char-box-selected {
     background-color: #E0E0E0;
 }    
 
-.char-box-true div.char {
+.char-box-selected div.char {
     background-color: #FFFFFF;
 }  
 

@@ -22,7 +22,6 @@ function WordCtrl($scope)
         $scope.letters = new Array();
         $scope.status  = new Array();
         $scope.input   = new Array();
-        $scope.pointer = new Array();
         $scope.result = false;
 
         $scope.wordLength = $scope.word.length;
@@ -31,9 +30,8 @@ function WordCtrl($scope)
             $scope.letters.push($scope.word[i]);
             $scope.status.push(initialStatus);
             $scope.input.push(initialChar);
-            $scope.pointer.push(false);
         }
-        $scope.pointer[0] = true;
+        $scope.pointer = 0;
     }
 
     $scope.changeWord = function()
@@ -44,43 +42,30 @@ function WordCtrl($scope)
         initializeWord();
     }
 
-    function getPointer()
+    function movePointer(up)
     {
-        var pos = -1;
-        for (i = 0 ; i < $scope.wordLength ; i++)
+        if (up && $scope.pointer < $scope.wordLength-1)
         {
-            if ($scope.pointer[i]=== true)
-            {
-                pos = i;
-                break;
-            }
+            ++$scope.pointer;
         }
-        return pos;
+        else if (!up && $scope.pointer > 0)
+        {
+            --$scope.pointer;
+        }
     }
 
-    function movePointer(pos, up)
+    $scope.pointerUp = function()
     {
-      
-        $scope.pointer[pos]   = false;
-        var newpos = up
-            ? pos+1
-            : pos-1;
-        if ( newpos < 0 ) { newpos = 0; }
-        else if ( newpos >= $scope.wordLength ) { newpos = $scope.wordLength-1; }
-        $scope.pointer[newpos] = true;
-    }
-
-    $scope.pointerUp = function(pos)
-    {
-        movePointer(pos, true);
+        movePointer(true);
     }
     
-    $scope.pointerDown = function(pos) {
-        movePointer(pos, false);
+    $scope.pointerDown = function() {
+        movePointer(false);
     }
 
-    $scope.updChar = function(pos, charCode)
+    $scope.updChar = function(charCode)
     {
+        pos = $scope.pointer;
         if ($scope.status[pos] != H)
         {
             $scope.input[pos] = String.fromCharCode(charCode + 32);
@@ -89,21 +74,20 @@ function WordCtrl($scope)
                 : I;
             $scope.status[pos] = newStatus;
         }
-        $scope.pointerUp(pos);
+        $scope.pointerUp();
     }
       
     $scope.resetWord = function()
     {
         for (i = 0 ; i < $scope.wordLength ; i++)
         {
-            $scope.pointer[i] = false;
             if ($scope.status[i] != H)
             {
                 $scope.input[i] = initialChar;
                 $scope.status[i] = E;
             }
         }
-        $scope.pointer[0] = true;
+        $scope.pointer = 0;
     }
       
     $scope.hintLetter = function()
@@ -175,8 +159,12 @@ function WordCtrl($scope)
         $scope.newWord();
     }
 
+    $scope.getCharSelected = function (idx)
+    {
+        return (idx === $scope.pointer && !$scope.result) ? 'selected' : '';
+    }
+
     $(document).keydown(function(e){
-        pos = getPointer();
 
         var charCode = (typeof e.which == "number") ? e.which : e.keyCode
 
@@ -194,16 +182,17 @@ function WordCtrl($scope)
                 $scope.nextWord();
             }
         }
-        else
+        else if (!$scope.result)
         {
             if (charCode >= 65 && charCode <= 90
                 //|| charCode >= 97 && charCode <= 122
             )
             {
-                $scope.updChar(pos, charCode);
+                $scope.updChar(charCode);
             }
             else if (charCode == 8) // Backspace
             {
+                pos = $scope.pointer;
                 if ($scope.status[pos] != H)
                 {
                     $scope.input[pos] = initialChar;
@@ -215,8 +204,8 @@ function WordCtrl($scope)
             {
                 $scope.resetWord();
             }
-            $scope.checkResult();
         }
+        $scope.checkResult();
         $scope.$apply();
     });
 }
