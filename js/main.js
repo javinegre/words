@@ -194,7 +194,9 @@ function WordCtrl($scope)
             else if (charCode == 8) // Backspace
             {
                 pos = $scope.pointer;
-                if ($scope.status[pos] != H)
+                if ($scope.status[pos] != H
+                    && $scope.status[pos] != C
+                )
                 {
                     $scope.input[pos] = initialChar;
                     $scope.status[pos] = E;
