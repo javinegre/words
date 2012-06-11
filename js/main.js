@@ -107,6 +107,7 @@ function WordCtrl($scope)
         {
             $scope.input[pos] = $scope.letters[pos];
             $scope.status[pos] = H;
+            $scope.pointer = pos+1;
         }
     }
 
