@@ -160,6 +160,19 @@ function WordCtrl($scope)
         $scope.newWord();
     }
 
+    $scope.removeChar = function()
+    {
+        pos = $scope.pointer;
+        if ($scope.status[pos] != H
+            && $scope.status[pos] != C
+        )
+        {
+            $scope.input[pos] = initialChar;
+            $scope.status[pos] = E;
+        }
+        $scope.pointerDown();
+    }
+
     $scope.getCharSelected = function (idx)
     {
         return (idx === $scope.pointer && !$scope.result) ? 'selected' : '';
@@ -202,15 +215,7 @@ function WordCtrl($scope)
             }
             else if (charCode == 8) // Backspace
             {
-                pos = $scope.pointer;
-                if ($scope.status[pos] != H
-                    && $scope.status[pos] != C
-                )
-                {
-                    $scope.input[pos] = initialChar;
-                    $scope.status[pos] = E;
-                }
-                $scope.pointerDown(pos);
+                $scope.removeChar();
             }
             else if (charCode == 32) // Space
             {
