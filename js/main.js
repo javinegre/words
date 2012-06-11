@@ -198,7 +198,7 @@ function WordCtrl($scope)
         }
         else if ($scope.result)
         {
-            if (charCode == 13
+            if (charCode == 13 // Return
                 || charCode == 32 // Space
             )
             {
@@ -220,6 +220,14 @@ function WordCtrl($scope)
             else if (charCode == 32) // Space
             {
                 $scope.resetWord();
+            }
+            else if (charCode == 37) // Left arrow
+            {
+                $scope.pointerDown();
+            }
+            else if (charCode == 39) // Right arrow
+            {
+                $scope.pointerUp();
             }
         }
         $scope.checkResult();
