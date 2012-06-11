@@ -183,7 +183,16 @@ function WordCtrl($scope)
                 $scope.nextWord();
             }
         }
-        else if (!$scope.result)
+        else if ($scope.result)
+        {
+            if (charCode == 13
+                || charCode == 32 // Space
+            )
+            {
+                $scope.nextWord();
+            }
+        }
+        else
         {
             if (charCode >= 65 && charCode <= 90
                 //|| charCode >= 97 && charCode <= 122
