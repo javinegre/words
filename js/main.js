@@ -162,6 +162,7 @@ function WordCtrl($scope)
 
     $scope.removeChar = function()
     {
+        $scope.pointerDown();
         pos = $scope.pointer;
         if ($scope.status[pos] != H
             && $scope.status[pos] != C
@@ -170,7 +171,6 @@ function WordCtrl($scope)
             $scope.input[pos] = initialChar;
             $scope.status[pos] = E;
         }
-        $scope.pointerDown();
     }
 
     $scope.printCursor = function(idx)
