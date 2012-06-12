@@ -59,7 +59,11 @@
                                 <span>{{input[$index]}}</span>
                             </div>
                         </div>
-                        <div ng-show="pointer == wordLength" class="cursor"></div>
+                        <div class="last-cursor">
+                            <div ng-show="pointer == wordLength" class="cursor">
+                                <span></span>
+                            </div>
+                        </div>
                         <div class="check-{{result}}"></div>
                     </div>
                     <div class="clearBoth"></div>

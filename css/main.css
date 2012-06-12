@@ -169,3 +169,8 @@ ul#translation-meanings li {
     height: 36px;
     background-color: #606060;
 }
+
+.last-cursor
+{
+    margin: 4px 0px 0px 0px;
+}
