@@ -51,9 +51,15 @@
                         <span class="button" ng-click="nextWord()">&#9658; next word</span>
                     </div>
                     <div ng-show="word.length > 0" id="word-wrapper">
-                        <div class="char-box char-box-{{getCharSelected($index)}}" ng-repeat="char in word">
-                            <div class="char char-{{status[$index]}}">{{input[$index]}}</div>
+                        <div class="char-box" ng-repeat="char in word">
+                            <div ng-show="printCursor($index)" class="cursor">
+                                <span></span>
+                            </div>
+                            <div class="char char-{{status[$index]}}">
+                                <span>{{input[$index]}}</span>
+                            </div>
                         </div>
+                        <div ng-show="pointer == wordLength" class="cursor"></div>
                         <div class="check-{{result}}"></div>
                     </div>
                     <div class="clearBoth"></div>

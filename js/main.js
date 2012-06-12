@@ -44,7 +44,7 @@ function WordCtrl($scope)
 
     function movePointer(up)
     {
-        if (up && $scope.pointer < $scope.wordLength-1)
+        if (up && $scope.pointer < $scope.wordLength)
         {
             ++$scope.pointer;
         }
@@ -173,9 +173,9 @@ function WordCtrl($scope)
         $scope.pointerDown();
     }
 
-    $scope.getCharSelected = function (idx)
+    $scope.printCursor = function(idx)
     {
-        return (idx === $scope.pointer && !$scope.result) ? 'selected' : '';
+        return (idx == $scope.pointer);
     }
 
     $(document).keydown(function(e){
