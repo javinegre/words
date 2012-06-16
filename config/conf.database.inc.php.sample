@@ -1,0 +1,11 @@
+<?php
+
+// Define your database connection values and rename the file
+// cp config/conf.database.inc.php.sample config/conf.database.inc.php
+
+$host   = '';
+$dbname = '';
+$user   = '';
+$pass   = '';
+
+?>
