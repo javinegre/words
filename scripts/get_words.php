@@ -33,7 +33,7 @@ while($row = $STH->fetch()) {
     $words[] = array(
         'w' => $row['word'],
         't' => $row['translation'],
-        'm' => explode(';', $row['base_meaning'])
+        'm' => explode(';', $row['translation_meaning'])
     );
 }
 
