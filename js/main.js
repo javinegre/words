@@ -1,6 +1,8 @@
 
-function WordCtrl($scope)
+function WordCtrl($scope, $http)
 {
+
+    $scope.data_url = './scripts/get_words.php';
 
     $scope.wordsList   = [];
     $scope.solvedWords = [];
@@ -129,11 +131,18 @@ function WordCtrl($scope)
         }
     }
 
-    $scope.getWords = function()
+    $scope.handleLoadedWords = function (data, status)
     {
-        $scope.wordsList = serverData;
+        $scope.wordsList = data;
         $scope.solvedWords = [];
         $scope.newWord();
+    }
+
+    $scope.getWords = function()
+    {
+        $http.get($scope.data_url).success($scope.handleLoadedWords);
+        //TODO: error handling
+
     }
 
     $scope.newWord = function ()
