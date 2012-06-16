@@ -1,0 +1,1729 @@
+ April ; Apr 	 april 	 time 
+ China ; People's Republic of China ; mainland China ; Communist China ; Red China ; PRC ; Cathay 	 China 	 country 
+ Chinese 	 Chinees 	 language 
+ Czech Republic 	 Tsjechische Republiek ; Tsjechië 	 country 
+ December ; Dec 	 december 	 time 
+ Earth ; earth ; world ; globe 	 Aarde 	 nature 
+ English ; English language 	 Engels 	 language 
+ February ; Feb 	 februari 	 time 
+ France ; French Republic 	 Frankrijk 	 country 
+ Friday ; Fri 	 vrijdag 	 time 
+ German ; High German ; German language 	 Duits 	 linguistics 
+ Germany ; Federal Republic of Germany ; Deutschland ; FRG 	 Duitsland 	 country 
+ Hindi 	 Hindi 	 language 
+ India ; Republic of India ; Bharat 	 Republiek India 	 country 
+ Italian 	 Italiaans 	 language 
+ Italy ; Italian Republic ; Italia 	 Italië 	 country 
+ January ; Jan 	 januari 	 time 
+ Japan ; Nippon ; Nihon 	 Japan 	 country 
+ Japanese 	 Japans 	 language 
+ July 	 juli 	 time 
+ June 	 juni 	 time 
+ Monday ; Mon 	 maandag 	 time 
+ Moon ; moon 	 maan 	 nature 
+ November ; Nov 	 november 	 time 
+ October ; Oct 	 oktober 	 time 
+ Russian 	 Russen 	 language 
+ Saturday ; Sabbatum ; Sat 	 zaterdag 	 time 
+ Spain ; Kingdom of Spain ; Espana 	 Spanje 	 country 
+ Sunday ; Lord's Day ; Dominicus ; Sun 	 zondag 	 time 
+ Thursday ; Th 	 donderdag 	 time 
+ United Kingdom ; UK ; U.K. ; Britain ; United Kingdom of Great Britain and Northern Ireland ; Great Britain 	 Brittannië 	 country 
+ United States ; United States of America ; America ; the States ; US ; U.S. ; USA ; U.S.A. 	 Verenigde Staten van America ; USA 	 country 
+ Wednesday ; Midweek ; Wed 	 woensdag 	 time 
+ ability ; power 	 vermogen 	 abstract 
+ able 	 capabel 	 adjective 
+ about ; almost ; most ; nearly ; near ; nigh ; virtually ; well-nigh 	 bijna 	 adverb 
+ about ; around 	 om 	 adverb 
+ above ; higher up ; in a higher place ; to a higher place 	 boven 	 adverb 
+ abrupt ; precipitous ; sharp 	 steil 	 adjective 
+ accept ; take ; have 	 aanvaarden 	 verb 
+ accident 	 ongeluk ; ongeval 	 transport 
+ account ; business relationship 	 rekening 	 business 
+ achieve ; accomplish ; attain ; reach 	 bereiken 	 verb 
+ acid 	 zuur 	 adjective 
+ acid 	 zuur 	 material 
+ acme ; height ; elevation ; peak ; pinnacle ; summit ; superlative ; meridian ; tiptop ; top 	 toppunt 	 abstract 
+ act ; deed ; human action ; human activity 	 daad 	 abstract 
+ act ; move 	 handelen 	 verb 
+ action 	 actie 	 mathematics 
+ action 	 handeling ; actie 	 mathematics 
+ action ; activity ; activeness 	 bezigheid 	 mathematics 
+ actor ; histrion ; player ; thespian ; role player 	 acteur 	 profession 
+ actress 	 actrice 	 profession 
+ actually ; really 	 echt 	 adverb 
+ acuate ; acute ; sharp ; needlelike 	 scherp 	 adjective 
+ ad ; advertisement ; advertizement ; advertising ; advertizing ; advert 	 bericht ; advertentie ; commercial 	 business 
+ add 	 bijvoegen 	 verb 
+ add ; add together 	 optellen 	 verb 
+ addition ; add-on ; improver 	 toevoeging 	 abstract 
+ address 	 adresseren ; handigheid 	 abstract 
+ adept ; expert ; good ; practiced ; proficient ; skillful ; skilful 	 deskundig 	 adjective 
+ adjacent ; next ; side by side 	 aangrenzend 	 adjective 
+ adjective 	 adjectief 	 linguistics 
+ admit ; acknowledge 	 erkennen 	 verb 
+ advantage ; reward 	 voordeel 	 abstract 
+ advantage ; vantage 	 voordeel 	 abstract 
+ advice 	 raad ; advies 	 communication 
+ affect ; impact ; bear upon ; bear on ; touch on ; touch 	 invloed hebben op 	 verb 
+ after 	 aan 	 adjective 
+ afternoon 	 middag ; namiddag 	 time 
+ again ; once again ; once more ; over again 	 opnieuw ; nogmaals ; weer ; wederom 	 adverb 
+ against 	 tegen 	 preposition 
+ age 	 ouderdom ; verouderen ; leeftijd 	 time 
+ ago ; agone 	 geleden 	 adjective 
+ agree ; hold ; concur ; concord 	 afspreken ; overeenstemmen ; het eens zijn ; toestemmen 	 verb 
+ agreement ; understanding 	 overeenstemming 	 business 
+ aid ; assist ; assistance ; help 	 hulp 	 communication 
+ air 	 lucht 	 nature 
+ airplane ; aeroplane ; plane 	 vliegtuig 	 object 
+ airport ; airdrome ; aerodrome ; drome 	 luchthaven ; vliegveld 	 city 
+ alive ; live 	 levend ; levende 	 adjective 
+ all 	 al ; alle 	 adjective 
+ alone ; lone ; lonely ; solitary 	 eenzaam 	 adjective 
+ along 	 langs 	 adverb 
+ already 	 al ; reeds 	 adverb 
+ alternatively ; instead ; or else 	 in 	 adverb 
+ altitude ; height 	 hoogte 	 abstract 
+ always ; ever ; e'er 	 altijd 	 adverb 
+ among ; amongst ; amid ; amidst 	 tussen 	 preposition 
+ amount 	 bedrag ; hoeveelheid ; saldo 	 abstract 
+ and 	 en 	 conjunction 
+ angle 	 hoek 	 mathematics 
+ angry 	 boos 	 adjective 
+ animal ; animate being ; beast ; brute ; creature ; fauna 	 dier ; beest 	 nature 
+ announce ; denote 	 aankondigen 	 verb 
+ announcement ; proclamation ; annunciation ; declaration 	 verkondiging 	 communication 
+ another ; some other 	 ander 	 adjective 
+ answer ; reply ; respond 	 antwoorden 	 verb 
+ answer ; reply ; response 	 antwoord 	 communication 
+ ant ; emmet ; pismire 	 mier 	 animal 
+ anteroom ; antechamber ; entrance hall ; hall ; foyer ; lobby ; vestibule 	 hal 	 house 
+ any ; whatever ; whatsoever 	 een 	 adjective 
+ anyone 	 iedereen 	 pronoun 
+ apartment ; flat 	 flat 	 society 
+ apparel ; wearing apparel ; dress ; clothes 	 jurk 	 clothes 
+ apple 	 appel 	 food 
+ approximately ; about ; close to ; just about ; some ; roughly ; more or less ; around ; or so 	 ongeveer 	 adverb 
+ area ; expanse ; surface area 	 oppervlakte 	 mathematics 
+ argent ; silver ; silvery ; silverish 	 zilveren 	 adjective 
+ argue ; contend ; debate ; fence 	 redetwisten 	 verb 
+ argue ; reason 	 betogen 	 verb 
+ argument ; statement 	 argument 	 communication 
+ arm 	 arm 	 anatomy 
+ army ; regular army ; ground forces 	 leger 	 society 
+ arrangement ; organization ; organisation ; system 	 organisatie 	 society 
+ arrive ; make it ; get in ; go far 	 aankomen 	 verb 
+ art ; fine art 	 kunst 	 art 
+ artist ; creative person 	 artiest 	 profession 
+ ask ; inquire ; enquire 	 vragen 	 verb 
+ aspect 	 aspect 	 abstract 
+ assail ; assault ; set on ; attack 	 tackelen 	 verb 
+ astute ; sharp ; shrewd 	 scherpzinnig 	 adjective 
+ at 	 naar 	 preposition 
+ attack ; onslaught ; onset ; onrush 	 aanvallen 	 abstract 
+ attempt ; effort ; endeavor ; endeavour ; try 	 poging 	 abstract 
+ attention ; attending 	 attentie 	 communication 
+ attitude ; mental attitude 	 attitude 	 abstract 
+ audio ; sound 	 audio- ; geluids- 	 abstract 
+ aureate ; gilded ; gilt ; gold ; golden 	 goudkleurig ; gouden 	 color 
+ authority ; authorization ; authorisation ; potency ; dominance ; say-so 	 autoriteit 	 society 
+ automatic 	 automatisch 	 adjective 
+ available 	 beschikbaar 	 adjective 
+ avoid 	 vermijden 	 verb 
+ awake 	 wakker 	 adjective 
+ award ; accolade ; honor ; honour ; laurels 	 onderscheiding 	 society 
+ baby ; babe ; infant 	 baby 	 family 
+ back 	 achterkant 	 clothes 
+ back ; dorsum 	 rug 	 anatomy 
+ bad 	 slecht 	 adjective 
+ bag 	 zak ; tas 	 object 
+ bag ; handbag ; pocketbook ; purse 	 handtas 	 clothes 
+ bag ; traveling bag ; travelling bag ; grip ; suitcase 	 valies 	 clothes 
+ balance 	 evenwicht ; balans 	 physics 
+ ball 	 bal 	 object 
+ bang-up ; bully ; corking ; cracking ; dandy ; great ; groovy ; keen ; neat ; nifty ; not bad ; peachy ; slap-up ; swell ; smashing 	 mieters 	 adjective 
+ bank 	 oever 	 nature 
+ barbarous ; brutal ; cruel ; fell ; roughshod ; savage ; vicious 	 barbaars 	 adjective 
+ bargain ; deal 	 overeenkomst 	 business 
+ base ; base of operations 	 baseren ; basis ; kazerne 	 society 
+ baseball ; baseball game 	 honkbal 	 sports 
+ basic 	 basis- 	 adjective 
+ basket ; handbasket 	 basket ; mand ; korf 	 object 
+ bath 	 badkamer 	 house 
+ bathroom ; bath 	 badkamer 	 house 
+ be 	 wezen 	 verb 
+ be ; live 	 leven 	 verb 
+ beach 	 strand 	 nature 
+ beak ; bill ; neb ; nib ; pecker 	 bek ; snavel 	 anatomy 
+ bear 	 beer ; berin 	 animal 
+ bear 	 dragen ; torsen 	 verb 
+ beat ; beat out ; crush ; shell ; trounce ; vanquish 	 overwinnen 	 verb 
+ beautiful 	 mooi 	 adjective 
+ because 	 omdat ; doordat 	 conjunction 
+ become ; go ; get 	 worden 	 verb 
+ bed 	 bed 	 house 
+ bedroom ; sleeping room ; sleeping accommodation ; chamber ; bedchamber 	 slaapkamer 	 house 
+ bee 	 bij ; honingbij 	 animal 
+ beer 	 bier 	 food 
+ beginning ; commencement ; first ; outset ; get-go ; start ; kickoff ; starting time ; showtime ; offset 	 begin 	 abstract 
+ beginning ; origin ; root ; rootage ; source 	 oorsprong ; bron 	 transport 
+ behind 	 na 	 adverb 
+ being ; beingness ; existence 	 bestaan 	 society 
+ believe 	 geloven 	 verb 
+ bell 	 klok ; bel 	 object 
+ beloved ; dear ; dearest ; honey ; love 	 lief 	 relations 
+ bend ; curve 	 bocht 	 transport 
+ benefit ; do good 	 ten goede komen aan 	 verb 
+ besides ; too ; also ; likewise ; as well 	 ook ; eveneens 	 adverb 
+ bespeak ; betoken ; indicate ; point ; signal 	 aanwijzen 	 verb 
+ best 	 best 	 adjective 
+ better 	 beter 	 adjective 
+ better ; improve ; amend ; ameliorate ; meliorate 	 verbeteren 	 verb 
+ beverage ; drink ; drinkable ; potable 	 drankje 	 food 
+ beyond 	 overheen 	 adverb 
+ bicycle ; bike ; wheel ; cycle 	 fiets ; velo (only in Belgium) 	 object 
+ bill ; account ; invoice 	 rekening 	 business 
+ bill ; note ; government note ; bank bill ; banker's bill ; bank note ; banknote ; Federal Reserve note ; greenback 	 bankbiljet 	 business 
+ biology ; biological science 	 biologie 	 science 
+ bird 	 vogel 	 animal 
+ birth ; nativity ; nascency ; nascence 	 geboorte 	 nature 
+ birthday 	 verjaardag 	 family 
+ bit ; chip ; flake ; fleck ; scrap 	 Stuk 	 object 
+ bite 	 Hap 	 medicine 
+ bite ; seize with teeth 	 bijten 	 verb 
+ bitter 	 bitter 	 adjective 
+ black 	 zwart 	 adjective 
+ blade 	 lemmet 	 object 
+ blessing ; approval ; approving 	 instemming ; goedkeuring 	 communication 
+ blood 	 bloed 	 anatomy 
+ blow 	 slag 	 abstract 
+ blue ; bluish ; blueish 	 blauw 	 color 
+ blueprint ; design ; pattern 	 model 	 object 
+ boat 	 boot ; schip 	 object 
+ bone ; os 	 bot 	 anatomy 
+ book ; volume 	 boek 	 object 
+ boot 	 laars ; hoge schoen 	 clothes 
+ boring ; deadening ; dull ; ho-hum ; irksome ; slow ; tedious ; tiresome ; wearisome 	 vervelend 	 adjective 
+ both 	 beide ; allebei ; alle twee 	 adjective 
+ bottle 	 fles 	 food 
+ box 	 doos 	 object 
+ boyfriend ; fellow ; beau ; swain ; young man 	 vriend ; lief 	 family 
+ brain ; encephalon 	 hersenen ; hersens ; brein 	 anatomy 
+ branch 	 tak 	 nature 
+ brand ; make 	 merk 	 abstract 
+ bread ; breadstuff ; staff of life 	 brood 	 food 
+ break 	 breken 	 verb 
+ breakfast 	 ontbijt 	 food 
+ breast ; chest 	 borst 	 anatomy 
+ breath 	 adem 	 anatomy 
+ brick 	 baksteen 	 house 
+ bridge ; span 	 brug ; bridge 	 object 
+ bright ; brilliant ; vivid 	 helder 	 adjective 
+ bring ; convey ; take 	 halen 	 verb 
+ broken 	 gebroken 	 adjective 
+ brother ; blood brother 	 broer ; broeder 	 family 
+ brow ; forehead 	 voorhoofd 	 anatomy 
+ brown ; brownish ; chocolate-brown ; dark-brown 	 bruin 	 color 
+ brush 	 borstel 	 object 
+ brusque ; brusk ; curt ; short 	 bruusk 	 adjective 
+ building ; edifice 	 gebouw ; constructie 	 city 
+ bulk ; mass ; volume 	 massa 	 physics 
+ burn ; fire ; burn down 	 afbranden 	 verb 
+ bus ; autobus ; coach ; charabanc ; double-decker ; jitney ; motorbus ; motorcoach ; omnibus ; passenger vehicle 	 autobus 	 transport 
+ businessman ; man of affairs 	 zakenman 	 profession 
+ businesswoman 	 zakenvrouw 	 business 
+ butter 	 boter 	 food 
+ buy ; purchase 	 verwerven 	 verb 
+ by ; past 	 langs 	 adverb 
+ cake 	 cake 	 food 
+ calculator ; reckoner ; figurer ; estimator ; computer 	 calculator ; rekenmachine 	 device 
+ calendar month ; month 	 maand 	 time 
+ call ; phone call ; telephone call 	 oproep 	 communication 
+ call ; telephone ; call up ; phone ; ring 	 roepen ; schreeuwen ; opbellen ; bezoeken ; noemen ; telefoneren 	 verb 
+ camera ; photographic camera 	 fotoapparaat ; fotocamera 	 object 
+ campaign ; cause ; crusade ; drive ; movement ; effort 	 campagne 	 abstract 
+ can ; tin ; tin can 	 blik 	 object 
+ capital 	 hoofdstad 	 society 
+ capital ; capital letter ; uppercase ; upper-case letter ; majuscule 	 hoofdletter 	 linguistics 
+ capital ; working capital 	 hoofdstad 	 business 
+ car ; auto ; automobile ; machine ; motorcar 	 auto ; wagen ; automobiel 	 transport 
+ carbohydrate ; saccharide ; sugar 	 koolhydraat 	 food 
+ card 	 kaart 	 object 
+ cardinal ; central ; fundamental ; key ; primal 	 fundamenteel ; 	 adjective 
+ care ; attention ; aid ; tending 	 zorg 	 abstract 
+ case ; instance ; example 	 casus 	 abstract 
+ castle 	 kasteel ; fort ; burcht ; 	 city 
+ cat ; true cat 	 kat ; poes 	 animal 
+ catch ; grab ; take hold of 	 opvangen 	 verb 
+ cause 	 teweegbrengen ; reden ; aanleiding ; oorzaak 	 abstract 
+ cell 	 cel 	 anatomy 
+ cell ; jail cell ; prison cell 	 cel 	 society 
+ cellular telephone ; cellular phone ; cellphone ; cell ; mobile phone 	 Mobiel ; Mobiel 	 device 
+ center ; centre ; middle ; heart ; eye 	 centrum 	 mathematics 
+ center ; centre ; midpoint 	 middelpunt 	 mathematics 
+ central 	 centraal 	 adjective 
+ central ; telephone exchange ; exchange 	 centraal 	 society 
+ century 	 eeuw 	 time 
+ certain ; sure 	 zeker 	 adjective 
+ chain 	 ketting 	 object 
+ chair 	 stoel ; zetel 	 house 
+ championship ; title 	 kampioenschap 	 sports 
+ change 	 wisselgeld 	 business 
+ change ; alter ; modify 	 veranderen ; aanpassen 	 verb 
+ change ; alteration ; modification 	 verandering ; aanpassing 	 abstract 
+ character ; grapheme ; graphic symbol 	 teken 	 linguistics 
+ charge ; accuse 	 beschuldigen 	 verb 
+ charge ; bill 	 berekenen 	 verb 
+ charge ; complaint 	 aanklacht 	 society 
+ charge ; electric charge 	 lading 	 nature 
+ cheap ; inexpensive 	 goedkoop ; goedkope 	 adjective 
+ check ; bank check ; cheque 	 cheque 	 business 
+ cheese 	 kaas 	 food 
+ chemical ; chemic 	 chemisch 	 adjective 
+ chemical ; chemical substance 	 chemicaliën ; chemicali�n 	 material 
+ chemical element ; element 	 element 	 material 
+ chemistry ; chemical science 	 apotheek ; scheikunde ; chemie 	 science 
+ chest 	 kist 	 object 
+ chief ; main ; primary ; principal ; master 	 hoofdzakelijk ; hoofdzakelijke ; belangrijkst ; belangrijkste 	 adjective 
+ child ; kid 	 kind 	 nature 
+ child ; kid ; youngster ; minor ; shaver ; nipper ; small fry ; tiddler ; tike ; tyke ; fry ; nestling 	 jongetje 	 family 
+ chin ; mentum 	 kin 	 anatomy 
+ chocolate 	 Chocola ; chocolade 	 food 
+ choice ; selection ; option ; pick 	 keuze 	 abstract 
+ choose ; take ; select ; pick out 	 kiezen 	 verb 
+ church ; church building 	 kerk 	 city 
+ cinema ; movie theater ; movie theatre ; movie house ; picture palace 	 bioscoop 	 city 
+ circle 	 cirkel 	 mathematics 
+ city ; metropolis ; urban center 	 stad 	 society 
+ claim 	 aanspraak 	 society 
+ clandestine ; cloak-and-dagger ; hole-and-corner ; hugger-mugger ; hush-hush ; secret ; surreptitious ; undercover ; underground 	 geheim 	 adjective 
+ class ; form ; grade ; course 	 klas 	 art 
+ classify ; class ; sort ; assort ; sort out ; separate 	 classificeren 	 verb 
+ clean 	 schoon 	 adjective 
+ clean ; make clean 	 schoonmaken 	 verb 
+ clear 	 duidelijk 	 adjective 
+ clock 	 klok 	 device 
+ close ; shut 	 sluiten ; dichtklappen 	 verb 
+ clothing ; article of clothing ; vesture ; wear ; wearable ; habiliment 	 kledingstuk 	 clothes 
+ cloud 	 wolk 	 nature 
+ club 	 knuppel 	 object 
+ club ; social club ; society ; guild ; gild ; lodge ; order 	 club 	 society 
+ coal 	 kool ; steenkool 	 material 
+ coat 	 mantel ; jas 	 clothes 
+ coffee ; java 	 koffie 	 food 
+ cognition ; knowledge ; noesis 	 kennis ; weten 	 education 
+ coil ; whorl ; roll ; curl ; curlicue ; ringlet ; gyre ; scroll 	 tros 	 object 
+ cold 	 koud 	 adjective 
+ cold ; common cold 	 koud ; verkoudheid 	 medicine 
+ coldness ; cold ; low temperature ; frigidity ; frigidness 	 koude 	 nature 
+ collar ; neckband 	 kraag ; boord ; halsboord 	 clothes 
+ color ; colour 	 kleur 	 adjective 
+ color ; colour ; coloring ; colouring 	 kleur 	 art 
+ coloring material ; colouring material ; color ; colour 	 Kleur 	 art 
+ come ; come up 	 komen 	 verb 
+ committee ; commission 	 comit� 	 society 
+ common 	 gewoon 	 adjective 
+ common ; mutual 	 gemeen ; overeenkomst 	 adjective 
+ common ; usual 	 gewoon 	 adjective 
+ community 	 gemeenschap 	 society 
+ company 	 firma 	 business 
+ company ; companionship ; fellowship ; society 	 gezelschap 	 society 
+ compare 	 vergelijken 	 verb 
+ comparison ; comparing 	 vergelijking 	 abstract 
+ competition 	 concurrentie 	 business 
+ complete ; consummate 	 volledig ; compleet ; allesomvattend 	 adjective 
+ complete ; finish 	 afwerken ; beëindigen ; voltooien ; be�indigen 	 verb 
+ complimentary ; costless ; free ; gratis ; gratuitous 	 gratis 	 adjective 
+ component ; constituent ; element ; factor ; ingredient 	 element 	 mathematics 
+ computer ; computing machine ; computing device ; data processor ; electronic computer ; information processing system 	 computer 	 device 
+ concert 	 concert 	 art 
+ concluding ; final ; last ; terminal 	 finaal 	 adjective 
+ condition ; status 	 status 	 abstract 
+ confront ; face up ; face 	 trotseren 	 verb 
+ connection ; connexion ; connectedness 	 verbinding 	 abstract 
+ conscious ; witting 	 welbewust 	 adjective 
+ consequence ; effect ; outcome ; result ; event ; issue ; upshot 	 gevolg 	 medicine 
+ construct ; build ; make 	 bouwen 	 verb 
+ contend ; fight ; struggle 	 vechten 	 verb 
+ contest ; competition 	 strijd 	 society 
+ continue ; go on ; proceed ; go along ; keep 	 voortzetten 	 verb 
+ contract 	 contract 	 business 
+ control 	 controle 	 abstract 
+ control ; command 	 beheersen ; beheren 	 verb 
+ controversy ; contention ; contestation ; disputation ; disceptation ; tilt ; argument ; arguing 	 ruzie 	 mathematics 
+ cook 	 kok ; kokkin 	 profession 
+ cook 	 koken 	 verb 
+ copy 	 kopie 	 object 
+ copy ; re-create 	 kopiëren ; kopi�ren 	 verb 
+ correct ; right 	 correct ; juist 	 adjective 
+ cost 	 kosten 	 society 
+ cotton 	 katoen 	 material 
+ cotton ; cotton fiber ; cotton wool 	 katoen ; katoenplant 	 material 
+ cough 	 hoesten 	 verb 
+ cough ; coughing 	 hoest 	 medicine 
+ council 	 raadgevend lichaam 	 society 
+ country ; state ; land 	 land 	 society 
+ couple ; pair ; twosome ; twain ; brace ; span ; yoke ; couplet ; distich ; duo ; duet ; dyad ; duad 	 paar 	 number 
+ course ; course of study ; course of instruction ; class 	 gang 	 education 
+ court ; courtroom 	 rechtszaal 	 society 
+ court ; tribunal ; judicature 	 gerechtshof 	 society 
+ cow ; moo-cow 	 koe 	 animal 
+ crack ; cleft ; crevice ; fissure ; scissure 	 barst 	 abstract 
+ crime ; offense ; criminal offense ; criminal offence ; offence ; law-breaking 	 misdaad 	 society 
+ crude ; rough 	 grof 	 adjective 
+ crush 	 verpletteren 	 verb 
+ cry ; outcry ; call ; yell ; shout ; vociferation 	 roep 	 communication 
+ cry ; weep 	 huilen 	 verb 
+ culture ; civilization ; civilisation 	 cultuur 	 society 
+ cup 	 kop 	 food 
+ cup ; loving cup 	 beker 	 object 
+ cupboard ; closet 	 kast ; wandkast 	 house 
+ current 	 tegenwoordig 	 adjective 
+ current ; electric current 	 elektrische stroom 	 nature 
+ current ; stream 	 actueel 	 nature 
+ curtain ; drape ; drapery ; mantle ; pall 	 gordijn 	 house 
+ curvature ; curve 	 kromming 	 mathematics 
+ curve ; curved shape 	 curve 	 art 
+ customer ; client 	 klant 	 business 
+ cut 	 snijden ; afsnijden ; knippen 	 verb 
+ cut ; cutting 	 snee 	 abstract 
+ dainty ; nice ; overnice ; prissy ; squeamish 	 teer 	 adjective 
+ damage 	 beschadigen 	 verb 
+ damage ; harm ; impairment 	 schade 	 transport 
+ dance ; trip the light fantastic ; trip the light fantastic toe 	 dansen 	 verb 
+ dance band ; band ; dance orchestra 	 kapel 	 art 
+ danger 	 gevaar 	 abstract 
+ dangerous ; unsafe 	 gevaarlijk ; gevaarlijke 	 adjective 
+ dark 	 donker 	 adjective 
+ data ; information 	 gegevens 	 communication 
+ date ; appointment ; engagement 	 afspraak 	 relations 
+ date ; day of the month 	 datum 	 time 
+ daughter ; girl 	 dochter 	 family 
+ day ; twenty-four hours ; twenty-four hour period ; 24-hour interval ; solar day ; mean solar day 	 dag 	 nature 
+ daze ; shock ; stupor 	 schok 	 abstract 
+ dead 	 dode 	 society 
+ dead 	 dood ; dode ; overleden ; gestorven 	 adjective 
+ death 	 dood 	 nature 
+ death ; decease ; expiry 	 dood 	 abstract 
+ decide ; make up one's mind ; determine 	 beslissen 	 verb 
+ decision ; determination ; conclusion 	 beslissing ; besluit 	 communication 
+ decoration ; ornament ; ornamentation 	 decoratie 	 object 
+ deep 	 diep 	 adjective 
+ defense ; defence ; defense force ; defence force 	 weer 	 abstract 
+ degree 	 graad 	 linguistics 
+ degree ; grade ; level 	 niveau ; graad 	 linguistics 
+ delicate 	 fijn 	 adjective 
+ delicate ; fragile ; frail 	 broos 	 adjective 
+ demeanor ; demeanour ; behavior ; behaviour ; conduct ; deportment 	 gedrag ; gedragingen 	 abstract 
+ democracy ; republic ; commonwealth 	 republiek ; democratie 	 society 
+ department ; section 	 departement 	 society 
+ dependable ; good ; safe ; secure 	 veilig 	 adjective 
+ depository financial institution ; bank ; banking concern ; banking company 	 bank 	 city 
+ describe ; depict ; draw 	 beschrijven 	 verb 
+ design ; designing 	 schets 	 abstract 
+ design ; plan 	 ontwerpen 	 verb 
+ desire ; want 	 willen 	 verb 
+ desk 	 schrijftafel 	 house 
+ despite 	 ondanks 	 preposition 
+ destruction ; devastation 	 vernietiging 	 abstract 
+ detail ; particular ; item 	 bijzonderheid 	 logistics 
+ detect ; observe ; find ; discover ; notice 	 ontdekken 	 verb 
+ develop 	 ontwikkelen 	 verb 
+ development ; evolution 	 evolutie 	 nature 
+ deviation ; divergence ; departure ; difference 	 afwijking 	 mathematics 
+ dictionary ; lexicon 	 woordenboek 	 linguistics 
+ die ; decease ; perish ; go ; exit ; pass away ; expire ; pass ; kick the bucket ; cash in one's chips ; buy the farm ; conk ; give-up the ghost ; drop dead ; pop off ; choke ; croak ; snuff it 	 sterven 	 verb 
+ difference 	 verschil 	 abstract 
+ different 	 anders 	 adjective 
+ difficult ; hard 	 moeilijk 	 adjective 
+ difficulty 	 strubbeling 	 abstract 
+ direction 	 richting 	 mathematics 
+ directly ; straight ; direct 	 direct ; recht 	 adverb 
+ director ; manager ; managing director 	 directeur 	 profession 
+ dirty ; dingy ; muddied ; muddy 	 smerig ; vuil 	 adjective 
+ dirty ; soiled ; unclean 	 onrein 	 adjective 
+ discipline ; subject ; subject area ; subject field ; field ; field of study ; study ; bailiwick 	 tucht 	 linguistics 
+ discover ; find 	 ontdekken 	 verb 
+ discovery ; find ; uncovering 	 ontdekking 	 society 
+ discussion ; give-and-take ; word 	 discussie ; bespreking 	 communication 
+ disease 	 ziekte 	 medicine 
+ displace ; fire ; give notice ; can ; dismiss ; give the axe ; send away ; sack ; force out ; give the sack ; terminate 	 ontslaan 	 verb 
+ distance 	 afstand ; verwijderen 	 mathematics 
+ diverse ; various 	 divers 	 adjective 
+ diverseness ; diversity ; multifariousness ; variety 	 verscheidenheid 	 art 
+ divide ; split ; split up ; separate ; dissever ; carve up 	 verdelen 	 verb 
+ division ; partition ; partitioning ; segmentation ; sectionalization ; sectionalisation 	 deling 	 mathematics 
+ doctor ; doc ; physician ; MD ; Dr. ; medico 	 doctor ; dokter ; arts 	 profession 
+ dog ; domestic dog ; Canis familiaris 	 hond 	 animal 
+ dominion ; rule 	 dominion 	 society 
+ door 	 deur 	 house 
+ doubt 	 twijfelen 	 verb 
+ doubt ; uncertainty ; incertitude ; dubiety ; doubtfulness ; dubiousness 	 twijfel 	 communication 
+ down 	 onder 	 adjective 
+ drawer 	 la 	 house 
+ drink ; imbibe 	 drinken 	 verb 
+ drive 	 besturen 	 verb 
+ drop ; drib ; driblet 	 druppel 	 object 
+ dry 	 droog 	 adjective 
+ dry ; dry out 	 afdrogen 	 verb 
+ dry ; dry out 	 drogen ; afdrogen 	 verb 
+ during 	 tijdens 	 preposition 
+ dust 	 stof 	 material 
+ duty 	 plicht 	 abstract 
+ dwelling ; home ; domicile ; abode ; habitation ; dwelling house 	 woning 	 house 
+ each 	 elk 	 adjective 
+ ear 	 oor 	 anatomy 
+ earlier ; before 	 voor 	 adverb 
+ early 	 vroeg 	 adjective 
+ early on ; early 	 vroeg 	 adverb 
+ earth ; ground 	 aarde 	 material 
+ east 	 oostelijk 	 adjective 
+ east ; due east ; eastward ; E 	 oosten 	 logistics 
+ easy 	 makkelijk 	 adjective 
+ eat 	 eten 	 verb 
+ economic 	 economisch 	 adjective 
+ economic ; economical 	 economisch 	 adjective 
+ economy ; economic system 	 economie 	 business 
+ edge ; border 	 kant 	 mathematics 
+ education 	 onderwijs 	 education 
+ education 	 opvoeding 	 society 
+ education ; instruction ; teaching ; pedagogy ; didactics ; educational activity 	 onderricht 	 education 
+ effort ; elbow grease ; exertion ; travail ; sweat 	 inspanning 	 abstract 
+ egg 	 ei 	 food 
+ eight ; 8 ; viii 	 acht 	 number 
+ eighteen ; 18 ; xviii 	 achttien 	 number 
+ eighth ; 8th 	 achtste ; achtste, 8ste 	 number 
+ eighty ; 80 ; lxxx ; fourscore 	 tachtig 	 number 
+ either 	 beide 	 adverb 
+ election 	 verkiezing 	 mathematics 
+ electric ; electrical 	 elektrisch 	 adjective 
+ elementary ; simple ; uncomplicated ; unproblematic 	 eenvoudig 	 adjective 
+ elephant 	 olifant 	 animal 
+ elevator ; lift 	 lift 	 device 
+ eleven ; 11 ; xi 	 elf 	 number 
+ eleventh ; 11th 	 elfde ; 11e 	 number 
+ embrace ; encompass ; comprehend ; cover 	 bevatten 	 verb 
+ encourage 	 aanmoedigen 	 verb 
+ end ; stop ; finish ; terminate ; cease 	 eindigen 	 verb 
+ end ; terminal 	 einde 	 abstract 
+ energy ; free energy 	 energie 	 nature 
+ engine 	 motor 	 device 
+ engineering ; engineering science ; applied science ; technology 	 technische wetenschappen 	 abstract 
+ enhance ; heighten ; raise 	 verhogen 	 verb 
+ enjoy ; bask ; relish ; savor ; savour 	 genieten 	 verb 
+ enough ; plenty 	 genoeg 	 adverb 
+ enter ; come in ; get into ; get in ; go into ; go in ; move into 	 binnengaan 	 verb 
+ entertainment ; amusement 	 amusement ; vertier 	 art 
+ entirely ; exclusively ; solely ; alone ; only 	 alleen 	 adverb 
+ entitle ; title 	 betitelen 	 verb 
+ envelope 	 envelop ; enveloppe ; briefomslag 	 object 
+ environment 	 milieu 	 nature 
+ environment ; environs ; surroundings ; surround 	 omgeving 	 nature 
+ equal 	 gelijke 	 adjective 
+ equally ; as ; every bit 	 als 	 adverb 
+ erstwhile ; former ; old ; onetime ; one-time ; quondam ; sometime 	 vroegere 	 adjective 
+ especial ; exceptional ; particular ; special 	 bijzonder 	 adjective 
+ establish ; found ; plant ; constitute ; institute 	 oprichten 	 verb 
+ estimate ; gauge ; approximate ; guess ; judge 	 veronderstellen ; gissen 	 verb 
+ estrus ; oestrus ; heat ; rut 	 bronst 	 nature 
+ even 	 even 	 adjective 
+ even 	 zelfs 	 adverb 
+ even ; fifty-fifty 	 vlak 	 adjective 
+ evening ; eve ; even ; eventide 	 avond 	 time 
+ event 	 evenement ; gebeurtenis 	 abstract 
+ every 	 ieder ; elk ; elke 	 adjective 
+ everything 	 alles 	 pronoun 
+ evidence 	 bewijs 	 abstract 
+ examination ; exam ; test 	 examen 	 communication 
+ example ; illustration ; instance ; representative 	 voorbeeld 	 communication 
+ exceed ; transcend ; overstep ; pass ; go past ; top 	 overtreffen 	 verb 
+ excellent ; first-class ; fantabulous ; splendid 	 uitstekend 	 adjective 
+ exist ; be 	 bestaan 	 verb 
+ exit ; go out ; get out ; leave 	 laten 	 verb 
+ expect ; look ; await ; wait 	 verwachten 	 verb 
+ experience 	 ervaring 	 communication 
+ experience 	 ervaring 	 society 
+ expert 	 vakman 	 profession 
+ explain ; explicate 	 uitleggen ; verklaren 	 verb 
+ express ; limited 	 expres 	 transport 
+ expression ; look ; aspect ; facial expression ; face 	 blik 	 communication 
+ eye ; oculus ; optic 	 oog 	 anatomy 
+ fabric ; cloth ; material ; textile 	 laken 	 material 
+ face ; human face 	 het hoofd bieden ; gezicht ; aangezicht ; gelaat 	 anatomy 
+ fact 	 feit 	 abstract 
+ factory ; mill ; manufacturing plant ; manufactory 	 fabriek 	 city 
+ fail ; neglect 	 falen 	 verb 
+ fake ; false ; faux ; imitation ; simulated 	 vals 	 adjective 
+ fall 	 vallen 	 verb 
+ fall ; autumn 	 herfst 	 nature 
+ false 	 vals 	 adjective 
+ false ; mistaken 	 onjuist 	 adjective 
+ family ; family unit 	 Familie 	 family 
+ family ; household ; house ; home ; menage 	 familie ; gezin 	 family 
+ far 	 ver ; ver 	 adjective 
+ farm 	 agrarisch ; boerderij 	 nature 
+ fast 	 vasten ; snel ; vlug ; rap ; kwiek ; gezwind 	 logistics 
+ fat 	 vet 	 material 
+ fat 	 vet ; vette ; dik ; dikke ; gezet ; gezette ; corpulent 	 adjective 
+ father ; male parent ; begetter 	 vader 	 family 
+ fatty ; fat 	 vettig 	 adjective 
+ fear 	 vrezen 	 verb 
+ fear ; fearfulness ; fright 	 vrees ; angst ; schrik ; bibber 	 relations 
+ feather ; plume ; plumage 	 pluim ; veer ; veder 	 object 
+ feature ; characteristic 	 eigenschap 	 abstract 
+ feel ; experience 	 gevoelen 	 verb 
+ feel ; sense 	 tasten 	 verb 
+ feeling 	 gevoel 	 communication 
+ female 	 vrouwelijk 	 adjective 
+ female ; female person 	 vrouw 	 society 
+ few 	 weinig 	 adjective 
+ fiddling ; footling ; lilliputian ; little ; niggling ; piddling ; piffling ; petty ; picayune ; trivial 	 gering 	 adjective 
+ field 	 veld (for crops) ; wei (for animals) 	 nature 
+ fierce ; tearing ; vehement ; violent ; trigger-happy 	 gewelddadig 	 adjective 
+ fifteen ; 15 ; xv 	 vijftien 	 number 
+ fifth ; 5th 	 vijfde ; 5de ; 5e 	 number 
+ fifty ; 50 ; l 	 vijftig 	 number 
+ fight ; fighting ; combat ; scrap 	 gevecht 	 abstract 
+ fill ; fill up ; make full 	 vullen 	 verb 
+ film ; cinema ; celluloid 	 film 	 object 
+ find ; regain 	 vinden 	 verb 
+ finger 	 vinger 	 anatomy 
+ finish ; destination ; goal 	 bestemming 	 abstract 
+ fire 	 brand 	 nature 
+ fire ; flame ; flaming 	 vuur ; vlam 	 nature 
+ firm ; house ; business firm 	 bedrijf 	 business 
+ firm ; solid 	 stevig 	 adjective 
+ first 	 eerst 	 adjective 
+ first ; firstly ; foremost ; first of all ; first off 	 eerste 	 adverb 
+ fiscal ; financial 	 financieel 	 adjective 
+ fish 	 vissen 	 animal 
+ five ; 5 ; v 	 vijf 	 number 
+ fix ; prepare ; set up ; ready ; gear up ; set 	 voorbereiden 	 verb 
+ fixed 	 vast 	 adjective 
+ flag 	 vlag ; vaandel 	 object 
+ flat ; level ; plane 	 vlak ; plat 	 adjective 
+ flight ; flying 	 vlucht ; vliegen 	 transport 
+ flim-flam ; play a joke on ; play tricks ; trick ; fob ; fox ; pull a fast one on ; play a trick on 	 beetnemen 	 verb 
+ floor ; flooring 	 vloer 	 house 
+ floor ; level ; storey ; story 	 verdieping 	 house 
+ flower 	 bloem 	 nature 
+ flush ; level ; even out ; even 	 gelijkmaken 	 verb 
+ fly 	 vlieg 	 animal 
+ fly ; wing 	 vliegen 	 verb 
+ fold ; crease ; plication ; flexure ; crimp ; bend 	 bocht 	 object 
+ follow 	 volgen 	 verb 
+ following ; next 	 volgende 	 adjective 
+ food ; nutrient 	 voedsel 	 food 
+ foot ; human foot ; pes 	 voet 	 anatomy 
+ football ; football game 	 voetbal ; rugby 	 sports 
+ footing ; basis ; ground 	 basis 	 mathematics 
+ footstep ; pace ; step ; stride 	 treden ; stap 	 mathematics 
+ for 	 want 	 conjunction 
+ force ; forcefulness ; strength 	 doordrukken ; kracht 	 abstract 
+ foreign ; strange 	 buitenlands ; vreemd 	 adjective 
+ forest ; wood ; woods 	 hout ; woud 	 nature 
+ forget 	 vergeten 	 verb 
+ forgive 	 vergeven 	 verb 
+ fork 	 vork 	 food 
+ form 	 formulier 	 society 
+ form ; shape ; cast 	 vorm 	 art 
+ forty ; 40 ; xl ; twoscore 	 veertig 	 number 
+ forward ; forwards ; frontward ; frontwards ; forrad ; forrard 	 vooruit 	 adverb 
+ four ; 4 ; iv 	 vier 	 number 
+ fourteen ; 14 ; xiv 	 veertien 	 number 
+ fourth ; 4th ; quaternary 	 vierde ; 4de ; 4e 	 number 
+ fourth dimension ; time 	 tijd 	 physics 
+ frame 	 lijst ; raam 	 object 
+ free 	 vrij 	 adjective 
+ free ; liberate ; release ; unloose ; unloosen ; loose 	 verlossen 	 verb 
+ frequent 	 frequent ; frequente 	 adjective 
+ frequently ; often ; oftentimes ; oft ; ofttimes 	 vaak ; dikwijls 	 adverb 
+ fresh 	 fris 	 adjective 
+ friend 	 vriendin ; maatje or ; maatje or 	 family 
+ friendly 	 vriendelijk 	 adjective 
+ front 	 voorste 	 adjective 
+ front ; front end ; forepart 	 front 	 abstract 
+ fruit 	 vrucht 	 food 
+ full 	 vol 	 adjective 
+ full ; total 	 totaal 	 adjective 
+ fume ; smoke 	 roken 	 verb 
+ function ; office ; part ; role 	 functie 	 mathematics 
+ function ; purpose ; role ; use 	 het doen ; functie 	 linguistics 
+ function ; work ; operate ; go ; run 	 werken 	 verb 
+ furniture ; piece of furniture ; article of furniture 	 meubilair 	 house 
+ further ; farther 	 verder 	 adjective 
+ future 	 toekomstig 	 adjective 
+ future ; hereafter ; futurity ; time to come 	 toekomst ; onvoltooid toekomende tijd 	 time 
+ gamble ; chance ; risk ; hazard ; take chances ; adventure ; run a risk ; take a chance 	 wagen 	 verb 
+ game 	 spel 	 mathematics 
+ game 	 spel 	 sports 
+ garage 	 garage 	 transport 
+ garden 	 tuin 	 house 
+ gate 	 draaihek 	 house 
+ gene ; cistron ; factor 	 gen 	 anatomy 
+ general 	 algemeen 	 adjective 
+ general ; full general 	 generaal 	 profession 
+ get ; acquire 	 verkrijgen 	 verb 
+ get down ; begin ; get ; start out ; start ; set about ; set out ; commence 	 beginnen 	 verb 
+ girl ; miss ; missy ; young lady ; young woman ; fille 	 meisje ; juffrouw 	 family 
+ girlfriend ; girl ; lady friend 	 vriendin 	 family 
+ give 	 geven ; overhandigen 	 verb 
+ glass 	 glas 	 material 
+ glass ; drinking glass 	 glas 	 food 
+ glue ; gum ; mucilage 	 lijm 	 material 
+ glue ; paste 	 aanplakken 	 verb 
+ gluey ; glutinous ; gummy ; mucilaginous ; pasty ; sticky ; viscid ; viscous 	 kleverig 	 adjective 
+ goal 	 doel 	 sports 
+ goat ; caprine animal 	 geit 	 animal 
+ gold ; Au ; atomic number 79 	 goud 	 material 
+ golf ; golf game 	 golf 	 travelling 
+ good 	 goed 	 adjective 
+ good ; goodness 	 goed ; goede 	 abstract 
+ good ; sound 	 gezond 	 adjective 
+ govern ; rule 	 regeren 	 verb 
+ government ; authorities ; regime 	 regering 	 society 
+ gradient ; slope 	 helling 	 mathematics 
+ grain 	 graan 	 material 
+ grandfather ; gramps ; granddad ; grandad ; granddaddy ; grandpa 	 grootvader ; opa ; opoe ; bompa 	 family 
+ grass 	 gras 	 nature 
+ gray ; grayness ; grey ; greyness 	 grijs 	 color 
+ green ; greenish ; light-green ; dark-green 	 groen 	 color 
+ grey ; gray ; greyish ; grayish 	 grij 	 adjective 
+ group ; grouping 	 groep 	 abstract 
+ grow 	 groeien 	 verb 
+ guest ; invitee 	 gast ; bezoeker 	 travelling 
+ guitar 	 gitaar 	 object 
+ gun 	 geweer ; vuurwapen ; pistool 	 object 
+ hair 	 haren 	 anatomy 
+ hair ; pilus 	 haar ; haren 	 anatomy 
+ hammer 	 hameren 	 object 
+ hand ; manus ; mitt ; paw 	 hand 	 anatomy 
+ handle ; grip ; handgrip ; hold 	 greep 	 object 
+ hapless ; miserable ; misfortunate ; pathetic ; piteous ; pitiable ; pitiful ; poor ; wretched 	 arm 	 adjective 
+ happen ; hap ; go on ; pass off ; occur ; pass ; fall out ; come about ; take place 	 gebeuren 	 verb 
+ happy 	 gelukkig ; blij ; opgewekt 	 adjective 
+ hash out ; discuss ; talk over 	 bespreken 	 verb 
+ hat ; chapeau ; lid 	 hoed 	 clothes 
+ hate ; detest 	 haten 	 verb 
+ hate ; hatred 	 haat 	 relations 
+ hateful ; mean 	 gemeen 	 adjective 
+ have ; have got ; hold 	 hebben 	 verb 
+ hazard ; jeopardy ; peril ; risk ; endangerment 	 risico 	 transport 
+ he 	 hij 	 pronoun 
+ head ; caput 	 hoofd 	 anatomy 
+ head ; chief ; top dog 	 chef 	 society 
+ health 	 gezondheid 	 abstract 
+ health ; wellness 	 gezondheid ; welzijn 	 medicine 
+ healthy 	 gezond ; gezonde 	 adjective 
+ healthy ; salubrious ; good for you 	 gezond 	 adjective 
+ hear 	 horen 	 verb 
+ heart ; pump ; ticker 	 hart 	 anatomy 
+ heavy 	 zwaar ; zware 	 adjective 
+ heed ; mind ; listen 	 aandacht 	 verb 
+ hello ; hullo ; hi ; howdy ; how-do-you-do 	 hallo ; hoi ; goedendag ; hi 	 linguistics 
+ help ; assist ; aid 	 helpen 	 verb 
+ her 	 haar 	 pronoun 
+ here 	 hier 	 adverb 
+ here ; hither 	 hier 	 adverb 
+ herself 	 zich 	 pronoun 
+ high 	 hoog 	 adjective 
+ hill 	 aanaarden ; heuvel 	 nature 
+ him 	 hem 	 pronoun 
+ himself 	 zich 	 pronoun 
+ his 	 zijn 	 pronoun 
+ historic period ; age 	 tijdperk 	 time 
+ history 	 geschiedenis 	 society 
+ hit ; hitting ; striking 	 slag 	 abstract 
+ hog ; pig ; grunter ; squealer ; Sus scrofa 	 zwijn ; varken 	 animal 
+ hole 	 holte ; put ; kuil ; gat ; opening 	 abstract 
+ home ; place 	 thuis 	 house 
+ homo ; man ; human being ; human 	 mens ; homosapien 	 family 
+ hook ; claw 	 haak ; boog 	 object 
+ hope 	 hopen 	 verb 
+ horse ; Equus caballus 	 paard 	 animal 
+ hospital ; infirmary 	 ziekenhuis ; hospitaal ; gasthuis 	 city 
+ hot 	 heet 	 adjective 
+ hotel 	 hotel 	 city 
+ hotness ; heat ; high temperature 	 hitte 	 medicine 
+ hour ; hr ; 60 minutes 	 uur 	 time 
+ house 	 huis 	 house 
+ however ; nevertheless ; withal ; still ; yet ; all the same ; even so ; nonetheless ; notwithstanding 	 echter 	 adverb 
+ human 	 menselijk 	 adjective 
+ humor ; humour ; sense of humor ; sense of humour 	 humor 	 communication 
+ hungry 	 hongerig 	 adjective 
+ hurt ; injure 	 bezeren 	 verb 
+ husband ; hubby ; married man 	 echtgenoot 	 family 
+ ice 	 ijs 	 nature 
+ ice ; water ice 	 ijs 	 material 
+ idea ; thought 	 idee ; gedachte ; ingeving 	 communication 
+ identify ; place 	 opsporen 	 verb 
+ if 	 als ; indien 	 conjunction 
+ ill ; sick 	 ziek ; zieke 	 adjective 
+ image 	 imago 	 art 
+ imitate ; copy ; simulate 	 nabootsen 	 verb 
+ immediately ; instantly ; straightaway ; straight off ; directly ; now ; right away ; at once ; forthwith ; like a shot 	 onmiddellijk 	 adverb 
+ impatient 	 ongeduldig 	 adjective 
+ imperial ; majestic ; purple ; regal ; royal 	 koninklijk 	 adjective 
+ important ; of import 	 belangrijk 	 adjective 
+ in ; inwards ; inward 	 binnen 	 adverb 
+ inaugural ; initiative ; initiatory ; first ; maiden 	 eerste 	 adjective 
+ include 	 bevatten 	 verb 
+ income 	 inkomsten 	 business 
+ incorporate ; contain ; comprise 	 bevatten 	 verb 
+ incorrect ; wrong 	 onjuist 	 adjective 
+ increase 	 stijgen 	 verb 
+ increase ; increment 	 toename 	 abstract 
+ increase ; increment ; growth 	 groei 	 abstract 
+ individual 	 individu 	 society 
+ individual ; private 	 individueel 	 adjective 
+ induce ; stimulate ; cause ; have ; get ; make 	 teweegbrengen 	 verb 
+ industrial 	 industrieel 	 adjective 
+ industry ; manufacture 	 vlijt 	 society 
+ infinitesimal ; minute 	 nietig 	 adjective 
+ information 	 informatie 	 communication 
+ information ; info 	 informatie 	 communication 
+ injure ; wound 	 verwonden ; kwetsen 	 verb 
+ ink 	 inkt 	 material 
+ insect 	 insekt ; insect ; nietsnut 	 animal 
+ inside ; within 	 binnenin 	 adverb 
+ institution ; establishment 	 instelling 	 society 
+ instrument 	 instrument ; muziekinstrument 	 device 
+ insurance 	 verzekering 	 business 
+ intelligent 	 knap 	 adjective 
+ intend ; mean ; think 	 van plan zijn 	 verb 
+ interest 	 rente 	 business 
+ interest ; involvement 	 interesse 	 communication 
+ interesting 	 interessant 	 adjective 
+ international 	 internationaal ; internationale 	 adjective 
+ internet ; net ; cyberspace 	 internet 	 mathematics 
+ interview 	 interviewen 	 communication 
+ into 	 binnen 	 preposition 
+ introduce ; present ; acquaint 	 voorstellen 	 verb 
+ invention ; innovation ; excogitation ; conception ; design 	 uitvinding 	 art 
+ iron ; Fe ; atomic number 26 	 ijzeren 	 material 
+ island 	 eiland ; eilanden 	 nature 
+ issue 	 kwestie 	 communication 
+ issue ; number 	 nummer 	 mathematics 
+ it 	 het 	 pronoun 
+ its 	 zijn 	 pronoun 
+ jacket 	 jasje 	 clothes 
+ jewel ; gem ; precious stone 	 juweel 	 object 
+ job ; task ; chore 	 werk 	 business 
+ join ; bring together 	 verbinden 	 verb 
+ jolt ; jar ; jounce ; shock 	 ruk ; schok 	 transport 
+ journalist 	 journalist 	 profession 
+ journey ; journeying 	 verblijf 	 transport 
+ judge ; justice ; jurist 	 rechter 	 profession 
+ jump ; leap ; bound ; spring 	 springen 	 verb 
+ keep ; maintain ; hold 	 houden 	 verb 
+ kernel ; substance ; core ; center ; centre ; essence ; gist ; heart ; heart and soul ; inwardness ; marrow ; meat ; nub ; pith ; sum ; nitty-gritty 	 kern 	 abstract 
+ key 	 sleutel (de) 	 house 
+ key 	 toets 	 object 
+ kick 	 trappen 	 verb 
+ kick ; boot ; kicking 	 schop 	 abstract 
+ kill 	 doden 	 verb 
+ kind 	 lief 	 adjective 
+ kind ; sort ; form ; variety 	 soort 	 abstract 
+ king ; male monarch ; Rex 	 koning ; heer 	 society 
+ kiss ; buss ; osculation 	 kus 	 relations 
+ kitchen 	 keuken 	 house 
+ knee ; knee joint ; human knee ; articulatio genus ; genu 	 knie 	 anatomy 
+ knife 	 mes 	 food 
+ knot 	 knopen ; knoop 	 object 
+ laid ; set 	 vastgesteld 	 adjective 
+ lake 	 meer 	 nature 
+ land ; dry land ; earth ; ground ; solid ground ; terra firma 	 land 	 nature 
+ land ; ground ; soil 	 grond 	 material 
+ land ; set down 	 aan land gaan 	 verb 
+ language ; linguistic communication 	 taal 	 communication 
+ large ; big 	 groot 	 adjective 
+ last 	 laatste 	 adjective 
+ last ; lastly ; in conclusion ; finally 	 ten slotte 	 adverb 
+ late 	 laat 	 adjective 
+ late ; belatedly ; tardily 	 laat 	 adverb 
+ laugh ; express joy ; express mirth 	 lachen 	 verb 
+ law 	 recht ; wet , recht 	 society 
+ lead ; Pb ; atomic number 82 	 lood 	 material 
+ lead ; take ; direct ; conduct ; guide 	 leiden 	 verb 
+ leader 	 gebieder ; leider ; leidster ; aanvoerder ; aanvoerster 	 society 
+ leaf ; leafage ; foliage 	 blad 	 nature 
+ leap ; jump ; saltation 	 sprong 	 abstract 
+ learn ; larn ; acquire 	 leren 	 verb 
+ least ; to the lowest degree 	 minst 	 adverb 
+ leather 	 leder ; leer 	 material 
+ leave 	 laten 	 verb 
+ leave ; leave of absence 	 verlof 	 society 
+ left 	 links 	 adjective 
+ leg 	 been 	 anatomy 
+ legal 	 wettig 	 adjective 
+ less 	 minder 	 adjective 
+ let 	 liet 	 verb 
+ let ; allow ; permit 	 toelaten 	 verb 
+ letter ; letter of the alphabet ; alphabetic character 	 Karakter , letter 	 linguistics 
+ letter ; missive 	 brief 	 object 
+ library 	 bibliotheek 	 city 
+ lie 	 liegen 	 verb 
+ lie 	 liggen 	 verb 
+ lie ; prevarication 	 leugen 	 communication 
+ life 	 leven 	 nature 
+ life 	 leven 	 time 
+ light 	 licht ; lichte 	 adjective 
+ light ; lite ; low-cal ; calorie-free 	 dieet 	 adjective 
+ light ; visible light ; visible radiation 	 licht 	 nature 
+ like 	 houden van ; graag hebben ; lusten ; graag lusten 	 verb 
+ like ; similar 	 vergelijkbaar 	 adjective 
+ limit ; bound ; boundary 	 limiet 	 mathematics 
+ line 	 lijn 	 mathematics 
+ lion ; king of beasts ; Panthera leo 	 leeuw 	 animal 
+ lip 	 lip 	 anatomy 
+ liquid 	 vloeistof 	 nature 
+ liquid 	 vloeistof ; vloeibaar ; vloeibare 	 adjective 
+ list ; listing 	 lijst 	 abstract 
+ listen ; hear ; take heed 	 beluisteren 	 verb 
+ little 	 beetje 	 adverb 
+ load ; charge 	 laden 	 verb 
+ local 	 plaatselijk 	 adjective 
+ lock 	 slot 	 house 
+ lock 	 sluiten ; afsluiten 	 verb 
+ long 	 lang 	 adjective 
+ long 	 lang ; lange 	 adjective 
+ look 	 kijken 	 verb 
+ look ; appear ; seem 	 er uitzien 	 verb 
+ lookout ; lookout man ; sentinel ; sentry ; watch ; spotter ; scout ; picket 	 wacht 	 profession 
+ lose 	 verliezen 	 verb 
+ lose 	 verliezen 	 verb 
+ loss 	 verlies 	 business 
+ loud 	 luid ; luide ; hard ; harde 	 adjective 
+ love 	 houden van 	 verb 
+ love 	 liefde 	 relations 
+ low 	 laag 	 adjective 
+ low ; depression 	 Lage druk gebied 	 nature 
+ lucky 	 gelukkig 	 adjective 
+ lunch ; luncheon ; tiffin ; dejeuner 	 lunch ; middageten 	 food 
+ machine 	 machine 	 device 
+ magazine ; mag 	 tijdschrift ; magazine ; blad 	 object 
+ mail ; mail service ; postal service ; post 	 post 	 communication 
+ mail ; post ; send 	 op de post doen 	 verb 
+ majority ; bulk 	 meerderheid 	 abstract 
+ make ; create 	 scheppen 	 verb 
+ make ; do 	 doen 	 verb 
+ male 	 mannelijk 	 adjective 
+ male ; male person 	 man 	 society 
+ male ; manful ; manlike ; manly ; virile 	 mannelijk 	 adjective 
+ male child ; boy 	 jongen 	 family 
+ man ; adult male 	 man ; volwassen man 	 family 
+ manage ; deal ; care ; handle 	 leiden 	 verb 
+ management 	 directie 	 business 
+ management ; direction 	 administratiekantoor 	 society 
+ manner ; mode ; style ; way ; fashion 	 wijze ; manier ; stijl 	 mathematics 
+ many 	 velen 	 adjective 
+ map 	 kaart 	 object 
+ mark ; grade ; score 	 cijfer 	 education 
+ marker ; marking ; mark 	 markering ; aanduiding ; teken 	 abstract 
+ market ; marketplace ; market place 	 market 	 business 
+ marriage ; matrimony ; union ; spousal relationship ; wedlock 	 huwelijk 	 society 
+ marriage ; wedding ; marriage ceremony 	 huwelijk 	 family 
+ married 	 getrouwd 	 adjective 
+ marry ; get married ; wed ; conjoin ; hook up with ; get hitched with ; espouse 	 trouwen ; huwen ; zich in de echt verbinden 	 verb 
+ mass 	 mis 	 physics 
+ master ; master copy ; original 	 origineel 	 object 
+ match 	 spel 	 sports 
+ match ; fit ; correspond ; check ; jibe ; gibe ; tally ; agree 	 corresponderen 	 verb 
+ match ; lucifer ; friction match 	 lucifer 	 object 
+ material 	 materieel 	 adjective 
+ material ; stuff 	 materieel 	 material 
+ matter 	 materie 	 material 
+ matter ; affair ; thing 	 aangelegenheid 	 abstract 
+ me 	 me 	 pronoun 
+ meal ; repast 	 maaltijd 	 food 
+ mean 	 bedoelen 	 verb 
+ mean ; mean value 	 gemiddelde 	 mathematics 
+ meaning ; pregnant ; significant 	 veelbetekenend 	 adjective 
+ means ; agency ; way 	 manier 	 abstract 
+ measure ; mensurate ; measure out 	 meten 	 verb 
+ measure ; step 	 maatregel 	 abstract 
+ measurement ; measuring ; measure ; mensuration 	 meting 	 art 
+ meat 	 vlees 	 food 
+ medical 	 geneeskundig 	 adjective 
+ meet ; run into ; encounter ; run across ; come across ; see 	 ontmoeten 	 verb 
+ meeting ; coming together 	 samenkomst, bijeenkomst 	 communication 
+ member ; fellow member 	 lid 	 society 
+ memory 	 herinnering 	 communication 
+ memory ; retention ; retentiveness ; retentivity 	 geheugen 	 communication 
+ menstruation ; menses ; menstruum ; catamenia ; period ; flow 	 menstruatie 	 medicine 
+ mention ; advert ; bring up ; cite ; name ; refer 	 noemen 	 verb 
+ menu ; bill of fare ; card ; carte du jour ; carte 	 kaart 	 object 
+ merely ; simply ; just ; only ; but 	 slechts ; alleen maar 	 adverb 
+ metallic ; metal 	 metalen 	 adjective 
+ metallic element ; metal 	 metaal 	 material 
+ method 	 methode 	 mathematics 
+ metro ; tube ; underground ; subway system ; subway 	 metro 	 transport 
+ midnight 	 middernacht 	 time 
+ might ; mightiness ; power 	 macht 	 abstract 
+ military 	 militair 	 adjective 
+ military ; armed forces ; armed services ; military machine ; war machine 	 krijgsmacht 	 society 
+ milk 	 melk 	 food 
+ milkshake ; milk shake ; shake 	 milkshake 	 food 
+ million ; 1000000 ; one thousand thousand ; meg 	 miljoen 	 number 
+ mind ; head ; brain ; psyche ; nous 	 verstand ; geest ; psyche ; denkvermogen 	 mathematics 
+ mine 	 mijn 	 object 
+ minister ; government minister 	 minister 	 profession 
+ minor ; modest ; small ; small-scale ; pocket-size ; pocket-sized 	 gering 	 adjective 
+ minute ; min 	 minuut 	 time 
+ mirror 	 spiegel 	 house 
+ miss 	 missen 	 verb 
+ miss 	 missen 	 verb 
+ mistake ; error ; fault 	 fout ; vergissing 	 communication 
+ mod ; modern ; modernistic 	 modern 	 adjective 
+ model 	 patroon 	 object 
+ moisture ; wet 	 vochtigheid ; vocht 	 nature 
+ moment ; minute ; second ; instant 	 ogenblik 	 mathematics 
+ moment ; mo ; minute ; second ; bit 	 moment 	 time 
+ money 	 kleingeld 	 business 
+ monkey 	 aap ; apin 	 animal 
+ month 	 maand 	 transport 
+ more ; more than 	 meer 	 adjective 
+ more ; to a greater extent 	 meer 	 adverb 
+ morning ; morn ; morning time ; forenoon 	 ochtend 	 time 
+ mother ; female parent 	 moeder 	 family 
+ motion ; movement ; move ; motility 	 beweging 	 physics 
+ mountain ; mount 	 berg 	 nature 
+ mouth ; oral cavity ; oral fissure ; rima oris 	 mond 	 anatomy 
+ move ; displace 	 verroeren 	 verb 
+ movement ; motion 	 beweging 	 physics 
+ movie ; film ; picture ; moving picture ; moving-picture show ; motion picture ; motion-picture show ; picture show ; pic ; flick 	 film 	 art 
+ much 	 veel 	 adjective 
+ muscle ; musculus 	 spier 	 anatomy 
+ museum 	 museum 	 city 
+ music 	 muziek 	 art 
+ musician ; instrumentalist ; player 	 muzikant 	 profession 
+ my 	 mijn 	 pronoun 
+ nail 	 nagel 	 anatomy 
+ nail 	 nagel ; spijker 	 object 
+ name 	 naam 	 linguistics 
+ name ; call 	 noemen 	 verb 
+ narrow 	 nauw 	 adjective 
+ nation ; land ; country 	 natie ; staat 	 society 
+ national 	 nationaal 	 adjective 
+ national 	 vaderlands 	 adjective 
+ natural 	 natuurlijk 	 adjective 
+ natural language ; tongue 	 taal 	 linguistics 
+ nature 	 natuur 	 nature 
+ near ; close ; nigh 	 dichtbij 	 adjective 
+ necessary 	 nodig 	 adjective 
+ necessitate ; ask ; postulate ; need ; require ; take ; involve ; call for ; demand 	 hebben 	 verb 
+ neck ; cervix 	 hals ; klap 	 anatomy 
+ necktie ; tie 	 stropdas 	 clothes 
+ need ; demand 	 nodig hebben 	 abstract 
+ needle 	 naald 	 medicine 
+ neighbor ; neighbour 	 nabuur ; buurman ; buurvrouw ; buren (plural) 	 family 
+ nerve ; nervus 	 zenuw 	 anatomy 
+ net ; network ; mesh ; meshing ; meshwork 	 net 	 material 
+ net income ; net ; net profit ; lucre ; profit ; profits ; earnings 	 profijt ; winst 	 business 
+ nether ; under 	 onder 	 adjective 
+ never 	 nooit 	 adverb 
+ new 	 nieuw 	 adjective 
+ news ; intelligence ; tidings ; word 	 nieuws 	 society 
+ newspaper ; paper 	 krant ; nieuwsblad ; dagblad 	 object 
+ nice 	 aardig 	 adjective 
+ night ; nighttime ; dark 	 nacht 	 nature 
+ nine ; 9 ; ix 	 negen 	 number 
+ nineteen ; 19 ; xix 	 negentien 	 number 
+ ninety ; 90 ; xc 	 negentig 	 number 
+ ninth ; 9th 	 negende, 9de, 9e 	 number 
+ no 	 geen 	 adjective 
+ no 	 nee ; neen 	 abstract 
+ noise ; dissonance ; racket 	 ruis 	 society 
+ nor 	 noch 	 conjunction 
+ normal 	 normaal 	 adjective 
+ normally ; usually ; unremarkably ; commonly ; ordinarily 	 gewoonlijk 	 adverb 
+ north 	 noord ; noordelijk 	 adjective 
+ north ; due north ; northward ; N 	 noorden 	 logistics 
+ nose ; olfactory organ 	 neus 	 anatomy 
+ not ; non 	 niet 	 adverb 
+ note ; annotation ; notation 	 aantekening 	 communication 
+ note ; musical note ; tone 	 noot 	 art 
+ nothing ; nil ; nix ; nada ; null ; aught ; cipher ; cypher ; goose egg ; naught ; zero ; zilch ; zip ; zippo 	 niets 	 mathematics 
+ now 	 nu 	 time 
+ now ; at present 	 nu ; momenteel 	 adverb 
+ number 	 getal 	 linguistics 
+ number 	 nummeren 	 verb 
+ nurse 	 verpleegster 	 profession 
+ nut 	 moer 	 object 
+ nut 	 noot 	 food 
+ obtain 	 krijgen 	 verb 
+ obviously ; evidently ; manifestly ; patently ; apparently ; plainly ; plain 	 duidelijk 	 adverb 
+ occupation ; business ; job ; line of work ; line 	 werk 	 business 
+ of 	 van 	 preposition 
+ off 	 van 	 adjective 
+ offer 	 aanbieden 	 verb 
+ offer ; offering 	 aanbod 	 abstract 
+ office ; business office 	 kantoor 	 business 
+ officeholder ; officer 	 ambtenaar 	 profession 
+ oil 	 olie ; aardolie 	 material 
+ old 	 oud 	 adjective 
+ olfactory property ; smell ; aroma ; odor ; odour ; scent 	 geur ; reuk ; stank 	 nature 
+ on 	 tot 	 adjective 
+ once ; one time ; in one case 	 eens 	 adverb 
+ one ; 1 ; i ; ane 	 een 	 number 
+ one-half ; half 	 half ; helft 	 mathematics 
+ open ; open up 	 openen 	 verb 
+ open ; opened 	 open ; geopend 	 adjective 
+ open ; unfastened 	 open ; geopend 	 adjective 
+ open fire ; fire 	 vuren ; afvuren ; schieten 	 verb 
+ operate ; control 	 bedienen 	 verb 
+ operation 	 operatie ; bewerking 	 abstract 
+ operation ; functioning ; performance 	 werking 	 mathematics 
+ opinion ; sentiment ; persuasion ; view ; thought 	 gedachte ; mening ; opinie ; visie ; zienswijze 	 communication 
+ opportunity ; chance 	 kans ; mogelijkheid ; gelegenheid 	 abstract 
+ opposite 	 tegenovergesteld 	 adjective 
+ option ; alternative ; choice 	 alternatief 	 abstract 
+ or 	 of 	 conjunction 
+ orange 	 sinaasappel 	 food 
+ orange ; orangish 	 oranje 	 color 
+ orchestra 	 orkest 	 art 
+ order 	 order ; 	 society 
+ order 	 volgorde 	 linguistics 
+ order ; monastic order 	 orde 	 society 
+ order ; tell ; enjoin ; say 	 ordenen ; bevelen 	 verb 
+ organization ; organisation 	 organisatie 	 society 
+ original 	 origineel 	 adjective 
+ other 	 ander 	 adjective 
+ our 	 ons ; onze 	 pronoun 
+ outburst ; burst ; flare-up 	 uitbarsting 	 abstract 
+ outside 	 buiten 	 adverb 
+ oven 	 oven 	 device 
+ own ; ain 	 eigen 	 adjective 
+ own ; have ; possess 	 bezitten 	 verb 
+ owner ; possessor 	 bezitter 	 business 
+ package ; bundle ; packet ; parcel 	 pak 	 object 
+ page 	 bladzijde ; pagina 	 object 
+ pain ; hurting 	 pijn 	 medicine 
+ paint ; pigment 	 verf 	 art 
+ painting ; picture 	 schilderij ; afbeelding ; prent ; portret ; illustratie 	 art 
+ paper 	 papier ; document ; werk ; eindwerk 	 material 
+ parallel 	 parallel 	 adjective 
+ parent 	 ouder 	 family 
+ park ; commons ; common ; green 	 park 	 city 
+ part ; portion ; component part ; component ; constituent 	 deel ; onderdeel 	 abstract 
+ part ; section ; division 	 deling ; delen 	 mathematics 
+ particular 	 bijzonder 	 adjective 
+ particularly ; peculiarly ; especially ; specially 	 bijzonder 	 adverb 
+ party 	 feest ; party ; viering 	 society 
+ passenger ; rider 	 passagier 	 transport 
+ passport 	 paspoort 	 object 
+ past 	 voorbij 	 adjective 
+ past ; past times ; yesteryear 	 verleden 	 time 
+ patient 	 geduldig ; geduldige ; patiënt ; patiënte 	 adjective 
+ patient 	 patiënt 	 medicine 
+ pause ; intermission ; break ; interruption ; suspension 	 pauze 	 time 
+ pay 	 betalen 	 verb 
+ payment 	 betaling 	 business 
+ peace 	 vrede 	 abstract 
+ pen 	 pen 	 object 
+ pencil 	 potlood 	 object 
+ people 	 mensen ; lui ; volk ; personen 	 society 
+ percentage ; percent ; per centum ; pct 	 procent 	 mathematics 
+ person ; individual ; someone ; somebody ; mortal ; soul 	 persoon ; individueel 	 family 
+ personal 	 persoonlijk 	 adjective 
+ personality 	 karakter 	 abstract 
+ petroleum ; crude oil ; crude ; rock oil ; fossil oil ; oil 	 aardolie 	 material 
+ phase ; stage 	 fase 	 time 
+ photographer ; lensman 	 fotograaf 	 profession 
+ physical 	 lichamelijk 	 adjective 
+ physical 	 natuurkundig 	 adjective 
+ picture ; image ; icon ; ikon 	 beeld ; beeltenis ; plaatje 	 art 
+ piece 	 stuk 	 object 
+ pilot ; airplane pilot 	 piloot 	 profession 
+ pin 	 speld 	 object 
+ pink ; pinkish 	 roze 	 color 
+ pipe ; pipage ; piping 	 buis 	 object 
+ pivot ; pin 	 pen 	 object 
+ plain ; field ; champaign 	 vlakte 	 nature 
+ plan 	 plannen 	 verb 
+ plan ; program ; programme 	 plan 	 abstract 
+ plant ; flora ; plant life 	 plant 	 house 
+ plant ; works ; industrial plant 	 fabriek 	 city 
+ plate 	 bord ; dienblad 	 food 
+ play 	 spelen 	 verb 
+ player ; participant 	 speler 	 sports 
+ please 	 alstublieft (polite) ; alsjeblief (casual) ; a.u.b. 	 adverb 
+ pleasure ; pleasance 	 plezier ; genoegen 	 abstract 
+ plow ; plough ; turn 	 ploegen 	 verb 
+ poem ; verse form 	 gedicht 	 art 
+ poetry ; poesy ; verse 	 poëzie 	 art 
+ point ; dot 	 punt ; punt 	 linguistics 
+ poison 	 vergiftigen 	 verb 
+ poison ; toxicant ; poisonous substance 	 vergif 	 material 
+ police ; police force ; constabulary ; law 	 politie 	 society 
+ policeman ; police officer ; officer 	 politieagent 	 profession 
+ policy 	 beleid 	 society 
+ polish ; smooth ; smoothen ; shine 	 polijsten ; oppoetsen 	 verb 
+ political 	 politiek 	 adjective 
+ politician ; politico ; pol ; political leader 	 politicus 	 profession 
+ poor 	 arm ; berooid 	 adjective 
+ populace ; public ; world 	 bevolking 	 society 
+ population 	 bevolking 	 society 
+ position ; place 	 betrekking 	 linguistics 
+ possible 	 mogelijk ; mogelijke ; haalbaar ; haalbare (attainable) 	 adjective 
+ possibly ; perchance ; perhaps ; maybe ; mayhap ; peradventure 	 misschien ; wellicht ; mogelijkerwijs 	 adverb 
+ postage ; postage stamp ; stamp 	 port ; postzegel 	 object 
+ potato ; white potato ; Irish potato ; murphy ; spud ; tater 	 aardappel ; pieper ; patat 	 food 
+ potent ; strong ; stiff 	 krachtig 	 adjective 
+ powder ; pulverization ; pulverisation 	 buskruit 	 material 
+ power ; powerfulness 	 macht ; kracht 	 abstract 
+ practice 	 praktijk 	 art 
+ practice ; practise ; exercise ; do 	 uitoefenen 	 verb 
+ precisely ; exactly ; just 	 precies 	 adverb 
+ present 	 aanwezig 	 object 
+ present 	 tegenwoordig 	 adjective 
+ present ; nowadays 	 Tegenwoordig 	 time 
+ president 	 president 	 profession 
+ press 	 drukken 	 verb 
+ pressure ; pressure level ; force per unit area 	 druk 	 nature 
+ prevent ; forestall ; foreclose ; preclude ; forbid 	 voorkomen 	 verb 
+ previous ; old 	 vorig 	 adjective 
+ price 	 prijs 	 transport 
+ price 	 prijzen 	 verb 
+ price ; cost ; toll 	 prijs 	 business 
+ price ; terms ; damage 	 prijs 	 transport 
+ principle ; rule 	 principe 	 linguistics 
+ print ; impress 	 afdrukken 	 verb 
+ prison ; prison house 	 gevangenis 	 city 
+ private 	 besloten 	 adjective 
+ probable ; likely 	 waarschijnlijk 	 adjective 
+ probably ; likely ; in all likelihood ; in all probability ; belike 	 waarschijnlijk 	 adverb 
+ problem ; job 	 probleem 	 mathematics 
+ procedure ; process 	 werkwijze ; ontwikkelingsgang ; proces ; verloop 	 mathematics 
+ process ; physical process 	 bewerking 	 nature 
+ process ; treat 	 verwerken 	 verb 
+ produce ; make ; create 	 produceren 	 verb 
+ product ; production 	 product 	 object 
+ production 	 productie 	 abstract 
+ professional 	 professioneel 	 adjective 
+ professional ; professional person 	 vakman 	 profession 
+ profit ; turn a profit 	 verdienen ; winst maken ; profiteren 	 verb 
+ program ; programme ; computer program ; computer programme 	 programma 	 abstract 
+ project ; projection 	 project 	 abstract 
+ promise ; hope 	 hoop ; verwachting 	 relations 
+ pronunciation 	 uitspraak 	 linguistics 
+ property 	 eigendom 	 abstract 
+ property ; belongings ; holding 	 eigendom ; bezit 	 society 
+ proposal 	 aanbieding 	 abstract 
+ propose ; suggest ; advise 	 voorstellen 	 verb 
+ protest 	 protesteren 	 verb 
+ protest ; protestation 	 protest 	 communication 
+ prototype ; paradigm ; epitome ; image 	 prototype 	 linguistics 
+ public 	 publiek 	 travelling 
+ publish ; bring out ; put out ; issue ; release 	 uitgeven 	 verb 
+ pull ; draw ; force 	 trekken 	 verb 
+ pump 	 pomp 	 device 
+ pump 	 pompen 	 verb 
+ punishment ; penalty ; penalization ; penalisation 	 straf 	 society 
+ purple ; violet ; purplish 	 violet 	 color 
+ push ; force 	 duwen 	 verb 
+ push button ; push ; button 	 knop ; badge 	 object 
+ put ; set ; place ; pose ; position ; lay 	 zetten 	 verb 
+ quality 	 kwaliteit 	 abstract 
+ quality ; character ; lineament 	 karakter 	 abstract 
+ question ; inquiry ; enquiry ; query ; interrogation 	 kwestie 	 linguistics 
+ quickly ; rapidly ; speedily ; chop-chop ; apace 	 schielijk ; snel ; vlug ; gauw ; spoedig ; gezwind 	 adverb 
+ quiet 	 stil ; zwijgzaam ; rustig 	 adjective 
+ rain ; pelting 	 regen 	 nature 
+ rain ; rain down 	 regenen 	 verb 
+ rain ; rainfall 	 regen 	 nature 
+ raise ; lift ; elevate ; get up ; bring up 	 optrekken 	 verb 
+ rate ; charge per unit 	 tarief 	 business 
+ rate ; rank ; range ; order ; grade ; place 	 schatten 	 verb 
+ reach ; make ; attain ; hit ; arrive at ; gain 	 bereiken 	 verb 
+ reaction 	 reactie 	 abstract 
+ read 	 lezen 	 verb 
+ ready 	 klaar 	 adjective 
+ real ; existent 	 echt 	 adjective 
+ rear ; raise ; bring up ; nurture ; parent 	 fokken 	 verb 
+ reason 	 reden 	 communication 
+ reason 	 redeneren 	 verb 
+ reason ; ground 	 reden 	 communication 
+ receive ; have 	 ontvangen 	 verb 
+ recently ; late ; lately ; of late ; latterly 	 onlangs 	 adverb 
+ record 	 record 	 abstract 
+ record ; tape 	 opnemen 	 verb 
+ red ; reddish ; ruddy ; blood-red ; carmine ; cerise ; cherry ; cherry-red ; crimson ; ruby ; ruby-red ; scarlet 	 rood 	 color 
+ reduce ; cut down ; cut back ; trim ; trim down ; trim back ; cut ; bring down 	 verlagen 	 verb 
+ reflect ; reverberate 	 spiegelen 	 verb 
+ refuse ; reject ; pass up ; turn down ; decline 	 weigeren 	 verb 
+ region ; part 	 streek 	 nature 
+ regular 	 regelmatig ; regelmatige 	 adjective 
+ relation 	 relatie ; verhouding 	 communication 
+ relationship ; human relationship 	 verhouding 	 society 
+ religion ; faith ; organized religion 	 religie 	 society 
+ religion ; faith ; religious belief 	 religie 	 society 
+ remainder ; balance ; residual ; residue ; residuum ; rest 	 rest 	 business 
+ remember ; retrieve ; recall ; call back ; call up ; recollect ; think 	 onthouden 	 verb 
+ remove ; take ; take away ; withdraw 	 verwijderen 	 verb 
+ render ; return 	 retourneren 	 verb 
+ report 	 rapporteren 	 verb 
+ report ; study ; written report 	 rapport 	 abstract 
+ repose ; quiet ; placidity ; serenity ; tranquillity ; tranquility 	 sereniteit 	 abstract 
+ represent ; stand for ; correspond 	 vertegenwoordigen 	 verb 
+ representative 	 plaatsvervanger 	 profession 
+ request ; asking 	 verzoek 	 communication 
+ request ; bespeak ; call for ; quest 	 verlangen 	 verb 
+ research 	 onderzoek ; speurwerk 	 abstract 
+ research 	 vorsen 	 verb 
+ respect ; honor ; honour ; abide by ; observe 	 eerbiedigen 	 verb 
+ respite ; recess ; break ; time out 	 ontspanning 	 abstract 
+ responsibility ; responsibleness 	 verantwoordelijkheid 	 abstract 
+ responsible 	 verantwoordelijk ; verantwoordelijke 	 adjective 
+ rest ; ease ; repose ; relaxation 	 rust 	 abstract 
+ restaurant ; eating house ; eating place ; eatery 	 restaurant 	 city 
+ restrict ; restrain ; trammel ; limit ; bound ; confine ; throttle 	 beperken 	 verb 
+ result ; resultant ; final result ; outcome ; termination 	 resultaat 	 mathematics 
+ return ; homecoming 	 terugkomst 	 abstract 
+ reverse ; contrary ; opposite 	 tegendeel 	 abstract 
+ rhythm ; beat ; musical rhythm 	 ritme 	 art 
+ rice 	 rijst 	 food 
+ rice 	 rijst 	 food 
+ right 	 gelijk 	 adverb 
+ right 	 precies 	 adverb 
+ right 	 recht 	 society 
+ right 	 rechts ; rechtse 	 adjective 
+ rigid ; stiff 	 onbuigzaam 	 adjective 
+ ring ; band 	 ring 	 clothes 
+ rise ; rising ; ascent ; ascension 	 ontsteking 	 abstract 
+ rival ; challenger ; competitor ; competition ; contender 	 rivaal 	 business 
+ river 	 stroom ; rivier 	 nature 
+ road ; route 	 weg ; baan ; straat 	 transport 
+ rock ; stone 	 steen ; steentje 	 nature 
+ roof 	 dak 	 house 
+ room 	 ruimte ; kamer ; zaal 	 house 
+ root 	 wortel 	 mathematics 
+ root 	 wortel 	 nature 
+ rope 	 touw 	 transport 
+ rough ; unsmooth 	 onbehouwen 	 adjective 
+ round ; circular 	 rondschrijven ; ronde 	 adjective 
+ round off ; round down ; round out ; round 	 afronden 	 verb 
+ rug ; carpet ; carpeting 	 tapijt 	 house 
+ rule ; regulation 	 heerschappij ; voorschrift 	 linguistics 
+ run 	 rennen ; lopen 	 verb 
+ sad 	 bedroefd ; droevig ; treurig 	 adjective 
+ safe 	 brandkast 	 object 
+ safe 	 veilig 	 adjective 
+ sail ; canvas ; canvass ; sheet 	 zeil ; zeiltocht 	 object 
+ sailor ; crewman 	 zeeman ; matroos 	 profession 
+ salad 	 salade 	 food 
+ sale 	 verkoop 	 business 
+ salt 	 zouten 	 verb 
+ salt ; table salt ; common salt 	 zouten 	 food 
+ salvage ; salve ; relieve ; save 	 redden 	 verb 
+ same 	 hetzelfde 	 adjective 
+ sand 	 zand ; zavel 	 material 
+ sandwich 	 sandwich 	 food 
+ sauce 	 sop 	 food 
+ save ; preserve 	 besparen 	 verb 
+ school ; schoolhouse 	 school 	 city 
+ science ; scientific discipline 	 wetenschap 	 society 
+ scientist 	 wetenschapper 	 profession 
+ scissors ; pair of scissors 	 schaar 	 object 
+ scope ; range ; reach ; orbit ; compass ; ambit 	 bereik 	 abstract 
+ screen ; cover ; covert ; concealment 	 deksel 	 object 
+ screw 	 schroeven 	 verb 
+ sea 	 zee 	 nature 
+ season 	 seizoen 	 nature 
+ season ; flavor ; flavour 	 rijpen 	 verb 
+ seat 	 zetel 	 house 
+ seat ; place 	 plaats 	 abstract 
+ second ; 2nd ; 2d 	 tweede 	 adjective 
+ second ; sec ; s 	 seconde 	 time 
+ secret 	 geheim 	 communication 
+ secretary ; secretarial assistant 	 secretaresse 	 profession 
+ section ; subdivision 	 sectie 	 mathematics 
+ see 	 zien ; aanschouwen 	 verb 
+ see ; consider ; reckon ; view ; regard 	 beschouwen 	 verb 
+ seed 	 zaad 	 food 
+ sell 	 verkopen 	 verb 
+ sentence 	 zin 	 linguistics 
+ separate 	 afzonderlijk 	 adjective 
+ serious 	 ernstig ; degelijk 	 adjective 
+ servant ; retainer 	 meid 	 profession 
+ serve 	 dienen 	 verb 
+ service 	 bediening 	 sports 
+ set 	 set 	 sports 
+ set 	 stelletje 	 mathematics 
+ seven ; 7 ; vii 	 zeven 	 number 
+ seventeen ; 17 ; xvii 	 zeventien 	 number 
+ seventh ; 7th 	 zevende ; zevende, 7de, 7e 	 number 
+ seventy ; 70 ; lxx 	 zeventig 	 number 
+ several 	 verscheidene 	 adjective 
+ sew ; run up ; sew together ; stitch 	 naaien 	 verb 
+ sex 	 sekse 	 nature 
+ sexual activity ; sexual practice ; sex ; sex activity 	 seks ; geslachtsdaad ; vrijen 	 relations 
+ share 	 aandeel 	 business 
+ share 	 delen 	 verb 
+ share ; portion ; part ; percentage 	 deel 	 society 
+ she 	 zij 	 pronoun 
+ sheep 	 schaap ; schapen 	 animal 
+ shelf 	 schap 	 house 
+ ship 	 schip 	 transport 
+ shirt 	 hemd 	 clothes 
+ shock ; offend ; scandalize ; scandalise ; appal ; appall ; outrage 	 ergernis geven 	 verb 
+ shoe 	 schoen 	 clothes 
+ shop ; store 	 winkel 	 business 
+ short 	 kort ; korte ; dicht ; dichte 	 adjective 
+ shout ; shout out ; cry ; call ; yell ; scream ; holler ; hollo ; squall 	 schreeuwen 	 verb 
+ show ; demo ; exhibit ; present ; demonstrate 	 tonen ; laten zien ; demonstreren ; weergeven 	 verb 
+ shower 	 douche 	 house 
+ shroud ; enshroud ; hide ; cover 	 verhullen ; verbergen 	 verb 
+ shut ; unopen ; closed 	 gesloten 	 adjective 
+ side 	 zijde 	 mathematics 
+ sign 	 teken 	 linguistics 
+ silence ; quiet 	 stilte 	 abstract 
+ silent ; soundless ; still 	 stil 	 adjective 
+ silk 	 zij 	 material 
+ silver 	 zilverkleurig ; zilverkleurige 	 adjective 
+ silver ; Ag ; atomic number 47 	 zilveren 	 material 
+ similar 	 gelijk 	 adjective 
+ since 	 sinds 	 preposition 
+ sincere 	 oprecht 	 adjective 
+ sing 	 zingen 	 verb 
+ singer ; vocalist ; vocalizer ; vocaliser 	 zangeres 	 profession 
+ single 	 enkel 	 adjective 
+ sink 	 gootsteen 	 house 
+ sister ; sis 	 zuster 	 family 
+ sit ; sit down 	 zitten 	 verb 
+ situation ; state of affairs 	 situatie 	 abstract 
+ six ; 6 ; vi ; half dozen ; half-dozen 	 zes 	 number 
+ sixteen ; 16 ; xvi 	 zestien 	 number 
+ sixth ; 6th 	 zesde ; 6de ; 6e 	 number 
+ sixty ; 60 ; lx ; threescore 	 zestig 	 number 
+ size 	 maat ; grootte 	 physics 
+ skid ; slip ; sideslip 	 slippen 	 abstract 
+ skill ; science 	 bedrevenheid 	 sports 
+ skin ; peel ; pare 	 schillen 	 verb 
+ skin ; tegument ; cutis 	 huid 	 anatomy 
+ skirt 	 rok 	 clothes 
+ sky 	 hemel 	 nature 
+ sleep ; slumber 	 slaap 	 nature 
+ slow 	 langzaam 	 adjective 
+ slowly ; slow ; easy ; tardily 	 traag ; traagjes ; langzaamaan 	 adverb 
+ small ; little 	 klein ; een beetje 	 adjective 
+ smash ; nail ; boom ; blast 	 slaan 	 verb 
+ smell 	 ruiken 	 verb 
+ smell 	 ruiken ; geuren ; stinken 	 verb 
+ smell 	 stinken 	 verb 
+ smile 	 glimlachen 	 verb 
+ smile ; smiling ; grin ; grinning 	 glimlach 	 abstract 
+ smoke 	 roken 	 verb 
+ smoke ; fume 	 damp 	 nature 
+ smooth 	 glad 	 adjective 
+ snake ; serpent ; ophidian 	 slang ; serpent 	 animal 
+ snog ; kiss ; buss ; osculate 	 kussen ; zoenen 	 verb 
+ snow 	 sneeuw 	 nature 
+ snow 	 sneeuwen 	 verb 
+ snow ; snowfall 	 sneeuwen 	 nature 
+ so 	 zozeer 	 adverb 
+ soap 	 zeep 	 material 
+ soap ; lather 	 inzepen 	 verb 
+ society 	 gemeenschap 	 society 
+ sock 	 sok 	 clothes 
+ soft 	 zacht 	 adjective 
+ soldier 	 soldaat 	 profession 
+ solid 	 solide 	 adjective 
+ sometimes 	 soms ; op een keer 	 adverb 
+ son ; boy 	 zoon 	 family 
+ song ; vocal 	 lied ; liedje ; nummer 	 art 
+ soon ; shortly ; presently ; before long 	 binnenkort 	 adverb 
+ sound 	 geluid ; klank ; toon 	 nature 
+ soup 	 soep 	 food 
+ south 	 zuid ; zuidelijk 	 adjective 
+ south ; due south ; southward ; S 	 zuidelijk ; zuiden 	 logistics 
+ space ; infinite 	 ruimte 	 mathematics 
+ sparse ; thin 	 dun 	 adjective 
+ specific 	 specifiek 	 adjective 
+ speech ; speech communication ; spoken communication ; spoken language ; language ; voice communication ; oral communication 	 taal 	 linguistics 
+ spelling 	 spelling 	 linguistics 
+ spend ; pass 	 doorbrengen 	 verb 
+ spill ; tumble ; fall 	 val 	 abstract 
+ spoon 	 lepel 	 food 
+ spring 	 springveer 	 object 
+ spring ; fountain ; outflow ; outpouring ; natural spring 	 bron 	 nature 
+ spring ; springtime 	 voorjaar 	 nature 
+ square 	 vierkant 	 adjective 
+ square ; foursquare 	 vierkant 	 mathematics 
+ square ; second power 	 vierkant 	 mathematics 
+ squash ; crush ; squelch ; mash ; squeeze 	 knijpen 	 verb 
+ staff 	 personeel 	 society 
+ stage 	 toneel 	 object 
+ stalk ; stem 	 stengel 	 nature 
+ stamp 	 muntstempel 	 object 
+ stand ; stand up 	 staan 	 verb 
+ standard 	 normaal 	 adjective 
+ standard ; criterion ; measure ; touchstone 	 criterium 	 communication 
+ star 	 ster 	 nature 
+ state 	 staat 	 society 
+ state 	 status 	 mathematics 
+ state ; province 	 staat 	 society 
+ state ; say ; tell 	 vertellen ; zeggen 	 verb 
+ statement 	 verklaring 	 communication 
+ station 	 station 	 society 
+ stay ; remain ; rest 	 blijven 	 verb 
+ steal 	 stelen ; ontvreemden ; jatten 	 verb 
+ steam 	 wasem ; stoom 	 physics 
+ steel 	 staal 	 material 
+ step ; stair 	 trap 	 house 
+ stick 	 kleven ; tak ; takje ; stok 	 object 
+ still 	 nog 	 adverb 
+ stitch 	 Steek 	 medicine 
+ stomach ; tummy ; tum ; breadbasket 	 maag 	 anatomy 
+ stop ; halt 	 stoppen 	 abstract 
+ stop ; halt 	 stoppen 	 verb 
+ straight 	 recht ; rechte 	 adjective 
+ strange ; unusual 	 raar 	 adjective 
+ stream ; flow ; current 	 stroom 	 nature 
+ street 	 straat 	 city 
+ stretch 	 rak 	 art 
+ strong 	 sterk 	 adjective 
+ structure 	 structuur 	 linguistics 
+ structure ; construction 	 structuur 	 house 
+ student ; pupil ; educatee 	 student ; studente 	 profession 
+ study 	 studeren ; instuderen 	 verb 
+ stupid 	 dom ; domme ; onverstandig ; onverstandige ; stom ; stomme 	 adjective 
+ style 	 stijl 	 art 
+ stylish ; fashionable 	 modieus 	 adjective 
+ subject ; dependent 	 ondergeschikte 	 adjective 
+ subject ; topic ; theme 	 onderwerp ; thema 	 linguistics 
+ substitution ; exchange ; commutation 	 vervanging 	 abstract 
+ success 	 succes 	 society 
+ successful 	 succesvol 	 adjective 
+ such 	 zodanig 	 adverb 
+ sudden 	 plotseling ; plotselinge 	 adjective 
+ suddenly ; all of a sudden ; of a sudden 	 plotseling 	 adverb 
+ suffer ; endure 	 lijden 	 verb 
+ sugar ; refined sugar 	 suiker 	 food 
+ sugar ; saccharify 	 zoeten 	 verb 
+ suggestion ; proposition ; proffer 	 voorstel 	 abstract 
+ sum ; amount ; total 	 som ; totaal 	 mathematics 
+ summation ; addition ; plus 	 optelling ; sommering 	 mathematics 
+ summer ; summertime 	 zomer 	 nature 
+ sun ; Sun 	 zon ; zonneschijn 	 nature 
+ supermarket 	 supermarkt 	 city 
+ supplant ; replace ; supersede ; supervene upon ; supercede 	 vervangen 	 verb 
+ supply ; provide ; render ; furnish 	 voorzien 	 verb 
+ support 	 steun 	 abstract 
+ support ; back up 	 steunen 	 verb 
+ surely ; certainly ; sure ; for sure ; for certain ; sure enough ; sure as shooting 	 zeker 	 adverb 
+ surface 	 oppervlakte 	 mathematics 
+ surprise 	 verrassen 	 verb 
+ surprise 	 verrassing 	 abstract 
+ surrender ; give up 	 zich overgeven 	 verb 
+ sweet 	 zoet 	 adjective 
+ sweet ; sweetness ; sugariness 	 Zoetigheid 	 food 
+ swim 	 zwemmen 	 verb 
+ system ; scheme 	 systeem 	 linguistics 
+ table 	 tafel 	 house 
+ table ; tabular array 	 tabel 	 object 
+ tail 	 schaduwen ; staart 	 anatomy 
+ take ; get hold of 	 pakken ; oppakken 	 verb 
+ talk ; speak ; utter ; mouth ; verbalize ; verbalise 	 praten ; spreken 	 verb 
+ tall 	 (thing) hoog ; (person) lang 	 adjective 
+ taste ; gustation ; sense of taste ; gustatory modality 	 smaak 	 nature 
+ taste ; savor ; savour 	 smaken 	 verb 
+ tax ; taxation ; revenue enhancement 	 belasting 	 business 
+ tea 	 thee 	 food 
+ teach ; learn ; instruct 	 aanleren ; leren ; onderwijzen 	 verb 
+ teacher ; instructor 	 leraar ; docent ; lerares ; onderwijzer 	 profession 
+ team ; squad 	 ploeg 	 society 
+ technology ; engineering 	 technologie 	 society 
+ television camera ; tv camera ; camera 	 camera 	 object 
+ television receiver ; television ; television set ; tv ; tv set ; idiot box ; boob tube ; telly ; goggle box 	 televisie 	 device 
+ ten ; 10 ; x 	 tien 	 number 
+ tendency ; trend 	 neiging 	 abstract 
+ tennis ; lawn tennis 	 tennis 	 sports 
+ tenth ; 10th 	 tiende, 10de, 10e 	 number 
+ test ; prove ; try ; try out ; examine ; essay 	 proberen 	 verb 
+ testify ; bear witness ; prove ; evidence ; show 	 bewijzen 	 verb 
+ than 	 dan 	 conjunction 
+ thank ; give thanks 	 bedanken 	 verb 
+ that 	 dat 	 pronoun 
+ the 	 de 	 article 
+ theater ; theatre ; house 	 schouwburg 	 city 
+ their 	 hun 	 pronoun 
+ them 	 hen 	 pronoun 
+ then ; so ; and so ; and then 	 toen 	 adverb 
+ theory 	 theorie 	 education 
+ there ; at that place ; in that location 	 daar ; daarheen ; aldaar 	 adverb 
+ therefore ; hence ; thence ; thus ; so 	 daarom 	 adverb 
+ these 	 deze 	 pronoun 
+ they 	 zij ; ze 	 pronoun 
+ thick 	 dicht 	 adjective 
+ thick 	 dik 	 adjective 
+ thin 	 dun 	 adjective 
+ thin ; lean 	 schraal 	 adjective 
+ thing 	 ding 	 object 
+ third ; 3rd ; tertiary 	 derde ; 3de ; 3e 	 mathematics 
+ thirsty 	 dorstig 	 adjective 
+ thirteen ; 13 ; xiii 	 dertien 	 number 
+ thirty ; 30 ; xxx 	 dertig 	 number 
+ this 	 dit ; deze 	 pronoun 
+ thorax ; chest ; pectus 	 borstkast 	 anatomy 
+ those 	 die 	 pronoun 
+ thousand ; one thousand ; 1000 ; M ; K ; chiliad ; G ; grand ; thou ; yard 	 duizend 	 number 
+ thousand ; one thousand ; 1000 ; m ; k 	 duizend 	 number 
+ three ; 3 ; iii 	 drie 	 number 
+ throat ; pharynx 	 keel 	 anatomy 
+ throw 	 gooi 	 sports 
+ throw 	 werpen ; gooien ; smijten ; afwerpen ; omgooien ; 	 verb 
+ thumb ; pollex 	 duim 	 anatomy 
+ ticket 	 bon 	 object 
+ ticket 	 ticket ; kaartje ; toegangsbewijs 	 object 
+ tight 	 dicht 	 adjective 
+ time period ; period of time ; period 	 periode 	 time 
+ tired 	 moe ; vermoeid 	 adjective 
+ title 	 titel 	 society 
+ to 	 naar 	 preposition 
+ today 	 heden 	 time 
+ today 	 vandaag 	 adverb 
+ toe 	 teen 	 anatomy 
+ together 	 samen 	 adverb 
+ toilet ; lavatory ; lav ; can ; john ; privy ; bathroom 	 toilet 	 house 
+ tomato 	 tomaat 	 food 
+ tomato ; love apple ; tomato plant ; Lycopersicon esculentum 	 tomaat 	 food 
+ tomorrow 	 morgen 	 adverb 
+ tomorrow 	 morgen 	 time 
+ tongue ; lingua ; glossa ; clapper 	 tong 	 anatomy 
+ tonight ; this evening ; this night 	 vannacht ; vanavond ; deze avond ; deze nacht 	 adverb 
+ tooth 	 tand 	 anatomy 
+ topographic point ; place ; spot 	 plaats 	 abstract 
+ torso ; trunk ; body 	 corpus ; lichaam 	 anatomy 
+ touch ; touching 	 aanraking 	 abstract 
+ town 	 stad ; gemeente ; nederzetting 	 society 
+ trace ; draw ; line ; describe ; delineate 	 tekenen 	 verb 
+ track ; rail ; rails ; runway 	 rail 	 transport 
+ trade 	 handel 	 business 
+ trade ; merchandise 	 handel 	 verb 
+ train ; develop ; prepare ; educate 	 trainen ; opleiden 	 verb 
+ train ; railroad train 	 trein 	 transport 
+ training ; preparation ; grooming 	 training 	 abstract 
+ transport ; carry 	 dragen 	 verb 
+ transport ; send ; ship 	 overbrengen ; voeren ; vervoeren ; transporteren 	 verb 
+ transportation ; shipping ; transport 	 vervoer 	 transport 
+ travel ; go ; move ; locomote 	 lopen 	 verb 
+ treat ; care for 	 behandelen 	 verb 
+ treatment ; handling 	 behandeling 	 abstract 
+ tree 	 boom 	 house 
+ tremble ; shiver ; shake 	 beving 	 abstract 
+ trick 	 kneep 	 abstract 
+ trouble ; problem 	 kwestie ; strubbeling ; zorg 	 abstract 
+ true 	 waar ; echt ; echte 	 adjective 
+ truly ; genuinely ; really 	 waarlijk 	 adverb 
+ truthful ; true 	 waar 	 adjective 
+ try ; seek ; attempt ; essay ; assay 	 pogen ; proberen 	 verb 
+ turn 	 draaien 	 verb 
+ twelfth ; 12th 	 twaalfde ; 12e ; 12de 	 number 
+ twenty ; 20 ; xx 	 twintig 	 number 
+ type 	 soort 	 abstract 
+ ugly 	 lelijk 	 adjective 
+ understand 	 verstaan ; begrijpen ; snappen 	 verb 
+ undertaking ; project ; task ; labor 	 opgave 	 abstract 
+ unemployed 	 werkloos 	 adjective 
+ union 	 unie 	 society 
+ unit of measurement ; unit 	 eenheid 	 mathematics 
+ university 	 universiteit 	 city 
+ university 	 universiteit 	 city 
+ university 	 universiteit 	 education 
+ unlike ; dissimilar ; different 	 anders 	 adjective 
+ unmarried ; single 	 ongetrouwd ; ongehuwd 	 adjective 
+ until 	 tot 	 conjunction 
+ unusual 	 ongewoon 	 adjective 
+ unwrap ; disclose ; let on ; bring out ; reveal ; discover ; expose ; divulge ; break ; give away ; let out 	 onthullen 	 verb 
+ up ; upwards ; upward ; upwardly 	 opwaarts 	 adverb 
+ us 	 ons 	 pronoun 
+ use ; usage ; utilization ; utilisation ; employment ; exercise 	 gebruik 	 linguistics 
+ use ; utilize ; utilise ; apply ; employ 	 gebruiken 	 verb 
+ user 	 gebruiker ; gebruikster 	 society 
+ vacation ; holiday 	 vakantie 	 travelling 
+ value 	 waarde 	 art 
+ very ; really ; real ; rattling 	 heel ; zeer ; erg 	 adverb 
+ village ; hamlet 	 dorp 	 society 
+ village ; small town ; settlement 	 dorp 	 society 
+ violent 	 gewelddadig 	 adjective 
+ visit 	 bezoek ; visite 	 abstract 
+ visit ; see 	 bezoeken ; opzoeken 	 verb 
+ vogue ; trend ; style 	 mode 	 abstract 
+ voice ; vocalization ; vocalisation ; vocalism ; phonation ; vox 	 stem 	 communication 
+ volition ; will 	 wil 	 abstract 
+ wages ; reward ; payoff 	 beloning 	 society 
+ wait ; hold off ; hold back 	 wachten ; afwachten 	 verb 
+ walk 	 lopen ; wandelen 	 verb 
+ wall 	 muur 	 house 
+ war ; state of war 	 oorlog 	 society 
+ warm 	 hartelijk 	 adjective 
+ warm 	 warmen 	 verb 
+ wash ; launder 	 wassen 	 verb 
+ waste ; waste material ; waste matter ; waste product 	 afval 	 material 
+ watch ; ticker 	 horloge 	 object 
+ watch ; view ; see ; catch ; take in 	 kijken 	 verb 
+ water ; H2O 	 water 	 material 
+ wave ; moving ridge 	 golf 	 nature 
+ we 	 we ; wij 	 pronoun 
+ wear 	 slijtage 	 abstract 
+ wear ; have on 	 aanhebben 	 verb 
+ weather ; weather condition ; conditions ; atmospheric condition 	 weer 	 nature 
+ wedding ; wedding ceremony ; nuptials ; hymeneals 	 bruiloft 	 family 
+ week ; calendar week 	 week 	 time 
+ weekend 	 weekend ; weekeinde 	 time 
+ weigh 	 wegen 	 verb 
+ weight 	 gewicht 	 physics 
+ well 	 bron ; bron ; put ; put 	 object 
+ well ; good 	 goed ; uitstekend 	 adverb 
+ west 	 westelijk 	 adjective 
+ west ; due west ; westward ; W 	 westen 	 logistics 
+ wet 	 nat ; natte ; vochtig ; vochtige 	 adjective 
+ wet 	 natmaken 	 verb 
+ what 	 wat 	 pronoun 
+ wheel 	 wiel 	 object 
+ whenever 	 wanneer ook 	 conjunction 
+ whether 	 of 	 conjunction 
+ which 	 welke ; welk 	 pronoun 
+ while ; piece ; spell ; patch 	 poos 	 transport 
+ whip 	 geselen ; zweep 	 object 
+ white 	 wit 	 adjective 
+ who 	 wie 	 pronoun 
+ whole 	 geheel 	 adjective 
+ whole 	 hele 	 abstract 
+ whom 	 wie 	 pronoun 
+ whose 	 van wie 	 pronoun 
+ why 	 waarom 	 adverb 
+ wide ; broad 	 wijd 	 adjective 
+ wife ; married woman 	 echtgenote ; vrouw 	 family 
+ will 	 wens 	 society 
+ will ; testament 	 testament ; laatste wilsbeschikking 	 society 
+ win 	 overwinning 	 sports 
+ win 	 winnen 	 verb 
+ wind ; air current ; current of air 	 wind 	 nature 
+ wind ; wrap ; roll ; twine 	 oprollen ; rollen 	 verb 
+ window 	 venster ;raam ; ruit 	 house 
+ wine ; vino 	 wijn 	 food 
+ wing 	 vleugel 	 anatomy 
+ winter ; wintertime 	 winter 	 nature 
+ wire 	 draad 	 object 
+ wise 	 wijs 	 adjective 
+ wish 	 wensen 	 verb 
+ wish ; wishing ; want 	 wens 	 abstract 
+ with 	 met ; bij 	 preposition 
+ woman ; adult female 	 vrouw 	 family 
+ wood 	 hout ; houtsoort ; woud 	 material 
+ wool 	 wol 	 material 
+ word 	 woord 	 linguistics 
+ work 	 werk 	 abstract 
+ work ; piece of work 	 werk 	 abstract 
+ worker 	 werker ; arbeider 	 profession 
+ world 	 wereld 	 nature 
+ write 	 schrijven ; schrijven (naar) 	 verb 
+ writer ; author 	 schrijver ; schrijfster ; auteur 	 profession 
+ writing 	 schrift 	 linguistics 
+ year ; twelvemonth ; yr 	 jaar 	 time 
+ yellow ; yellowish ; xanthous 	 geel 	 color 
+ yes 	 ja 	 abstract 
+ young ; immature 	 jong ; jeugdig 	 adjective 
