@@ -192,8 +192,17 @@ function WordCtrl($scope, $http)
         e.preventDefault();
         var charCode = (typeof e.which == "number") ? e.which : e.keyCode
 
+        // Quick patch
+        // TODO: improve shortcuts
+        if ($scope.wordsList.length == 0
+            && $scope.word.length == 0
+            && charCode == 13
+        )
+        {
+            $scope.getWords();
+        }
         // Shortcuts
-        if (e.shiftKey === true)
+        else if (e.shiftKey === true)
         {
             // [shift + H]
             if (charCode == 72)

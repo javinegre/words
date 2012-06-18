@@ -30,17 +30,21 @@
                     </div>
                     <div ng-show="word.length > 0 && !result">
                         <div>
-                            <span>&#8679; + H</span>
+                            <span ng-click="hintLetter()">&#8679; + H</span>
                             hint
                         </div>
                         <div>
-                            <span>&#8679; + N</span>
-                            new word
+                            <span ng-click="nextWord()">&#8679; + N</span>
+                            next word
+                        </div>
+                        <div>
+                            <span ng-click="resetWord()">Space</span>
+                            clear word
                         </div>
                     </div>
                     <div ng-show="word.length > 0 && result">
                         <div>
-                            <span>Space</span>
+                            <span ng-click="nextWord()">Space</span>
                             next word
                         </div>
                     </div>
