@@ -106,11 +106,15 @@ ul#translation-meanings li {
 }
 
 .check-true {
+    background-color: rgba(0, 128, 0, 0.8);
+    background-image: url("../images/icons/tick.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 2px 2px 2px 2px;
     float: left;
-    margin: 0px 0px 0px 15px;
-    background-image: url('../images/icons/check.png');
-    width: 32px;
-    height: 32px;
+    height: 33px;
+    margin: 2px 0 0 15px;
+    width: 34px;
 }
 
 #hint {
