@@ -1,0 +1,9 @@
+
+Temporary README
+
+TODO list
+---------
+ - Handle AJAX error responses
+ - Document main.js
+ - Rewrite main.css (use lesscss)
+ - Get dutch meanings from DB
