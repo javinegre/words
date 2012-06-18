@@ -1,6 +1,7 @@
 
 body {
     font-family: sans-serif;
+    background-image: url('../images/general/background.png');
 }
 
 .clearBoth {
@@ -8,15 +9,26 @@ body {
 }
 
 #game-wrapper {
-    margin: 30px 5% 0px 5%;
+    margin: 30px 5% 30px 5%;
 }
 
-#get-list-wrapper,
-#translation-wrapper,
+.pane {
+    background-color: rgba(200, 200, 220, 0.08);
+    border-radius: 4px;
+    padding: 10px 2% 20px 2%;
+    margin: 0px 2%;
+}
+
+#translation-wrapper {
+    float: left;
+    width: 20%;
+    min-height: 44px;
+}
+
 #next-word-wrapper {
     float: left;
-    width: 24%;
-    padding: 0px 5%;
+    width: 20%;
+    text-align: center;
 }
 
 span.button {
@@ -30,18 +42,12 @@ span.button {
     display: inline-block;
 }
 
-#get-list-wrapper span:hover {
-    color: #404040;
-    border: 1px solid #A0A0A0;
-    display: block;
-}
-
 #translation-word {
     background-color: #F0F0F0;
     padding: 2px 10px;
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: bold;
-    color: #404040;
+    color: #505050;
     border-radius: 2px;
 }
 
@@ -59,8 +65,7 @@ ul#translation-meanings li {
 
 #word-wrapper {
     float: left;
-    width: 65%;
-    text-align: right;
+    width: 62%;
 }
 
 .char-box {
@@ -73,15 +78,16 @@ ul#translation-meanings li {
 .char {
     float: left;
     font-family: monospace;
-    background-color: #E8E8E8;
+    background-color: rgba(232, 232, 232, 0.7);
     text-align: center;
     font-size: 2em;
     padding: 4px 10px;
     margin: 2px 0px 0px 0px;
+    min-height: 26px;
 }
 
 .char-empty {
-    color: lightgrey;
+    color: #808080;
 }
 
 .char-correct {
@@ -138,7 +144,7 @@ ul#translation-meanings li {
 }
 
 #shorcuts-wrapper > span {
-    color: #A0A0A0;
+    color: #E0E0E0;
     padding: 0px 10px 0px 0px;
     font-style: italic;
     font-size: 0.8em;
@@ -146,19 +152,34 @@ ul#translation-meanings li {
 
 #shorcuts-wrapper div {
     margin: 0px 10px;
-    background-color: #F8F8F8;
     padding: 2px 5px;
     display: inline;
     color:  #444444;
     font-size: 0.9em;
+    opacity: 0.4;
+}
+
+#shorcuts-wrapper div:hover {
+    opacity: 0.9;
 }
 
 #shorcuts-wrapper div span {
     display: inline;
     border: 1px solid #E0E0E0;
-    padding: 1px 4px;
+    padding: 1px 12px;
+    margin: 0px 5px 0px 0px;
     color: #666666;
     border-radius: 3px;
+    box-shadow: 1px 1px 1px #D0D0D0;
+}
+
+#shorcuts-wrapper div span:hover {
+    cursor: pointer;
+}
+
+#shorcuts-wrapper div span:active {
+    box-shadow: none;
+    margin: 1px 4px 0px 1px;
 }
 
 .cursor
@@ -166,8 +187,9 @@ ul#translation-meanings li {
     float: left;
     display: block;
     width: 4px;
-    height: 36px;
+    height: 38px;
     background-color: #606060;
+    border-radius: 2px;
 }
 
 .last-cursor

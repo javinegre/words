@@ -21,21 +21,35 @@
 		<div ng-app>
 			<div ng-controller="WordCtrl">
                 <div id="shorcuts-wrapper">
-                    <span>shortcuts: </span>
-                    <div>
-                        <span>shift + H</span>
-                        hint
+                    <span>keys: </span>
+                    <div ng-show="wordsList.length == 0 && word.length == 0">
+                        <div>
+                            <span ng-click="getWords()">&crarr; Intro</span>
+                            get words
+                        </div>
                     </div>
-                    <div>
-                        <span>shift + N</span>
-                        new word
+                    <div ng-show="word.length > 0 && !result">
+                        <div>
+                            <span>&#8679; + H</span>
+                            hint
+                        </div>
+                        <div>
+                            <span>&#8679; + N</span>
+                            new word
+                        </div>
+                    </div>
+                    <div ng-show="word.length > 0 && result">
+                        <div>
+                            <span>Space</span>
+                            next word
+                        </div>
                     </div>
                 </div>
                 <div id="game-wrapper">
-                    <div id="get-list-wrapper" ng-show="wordsList.length == 0 && word.length == 0">
+                    <div id="get-list-wrapper" class="pane" ng-show="wordsList.length == 0 && word.length == 0">
                         <span class="button" ng-click="getWords()">Get words!</span>
                     </div>
-                    <div ng-show="word.length > 0 && !result" id="translation-wrapper">
+                    <div ng-show="word.length > 0 && !result" id="translation-wrapper" class="pane">
                         <div id="translation-translation">
                             <div id="translation-word">
                                 {{translation}}
@@ -46,10 +60,10 @@
                         </ul>
                         <div class="clearBoth"></div>
                     </div>
-                    <div ng-show="word.length > 0 && result" id="next-word-wrapper">
+                    <div ng-show="word.length > 0 && result" id="next-word-wrapper" class="pane">
                         <span class="button" ng-click="nextWord()">&#9658; next word</span>
                     </div>
-                    <div ng-show="word.length > 0" id="word-wrapper">
+                    <div ng-show="word.length > 0" id="word-wrapper" class="pane">
                         <div class="char-box" ng-repeat="char in word">
                             <div ng-show="printCursor($index)" class="cursor">
                                 <span></span>
