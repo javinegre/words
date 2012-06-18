@@ -189,6 +189,7 @@ function WordCtrl($scope, $http)
 
     $(document).keydown(function(e){
 
+        e.preventDefault();
         var charCode = (typeof e.which == "number") ? e.which : e.keyCode
 
         // Shortcuts
