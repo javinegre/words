@@ -12,14 +12,21 @@ catch(PDOException $e)
     echo $e->getMessage();
 }
 
+// Discards categories sent with the request
+$categories_query = (isset($_POST['categories']) && !empty($_POST['categories']))
+    ? ' AND `category` NOT IN ("' . implode('","', explode(';', $_POST['categories'])) . '") '
+    : '';
+
 // Query explanation in http://akinas.com/pages/en/blog/mysql_random_row/
 $words_query = ' SELECT word, translation, base_meaning, translation_meaning '
-    . ' FROM `words` WHERE wordID >= (SELECT FLOOR(MAX(wordID) * RAND()) FROM `words`) ORDER BY wordID';
+    . ' FROM `words` WHERE wordID >= (SELECT FLOOR(MAX(wordID) * RAND()) FROM `words`) '
+    . $categories_query
+    . ' ORDER BY wordID';
 
-// Take number of words to show, default value is 10
+// Takes number of words to show, default value is 20
 $limit = (isset($_POST['limit']))
-    ? $_POST['limit']
-    : 10;
+    ? intval($_POST['limit'])
+    : 20;
 
 $words_query .= ' LIMIT ' . $limit;
 
