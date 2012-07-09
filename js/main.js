@@ -3,9 +3,11 @@ function WordCtrl($scope, $http)
 {
 
     $scope.data_url = './scripts/get_words.php';
+    $scope.categories_url = './scripts/get_categories.php';
 
     $scope.wordsList   = [];
     $scope.solvedWords = [];
+    $scope.categories  = [];
 
     $scope.word        = '';
     $scope.translation = '';
@@ -18,6 +20,24 @@ function WordCtrl($scope, $http)
 
     var initialChar   = '·';
     var initialStatus = E;
+
+    $scope.getCategories = function()
+    {
+        $http.get($scope.categories_url).success($scope.handleLoadedCategories);
+        //TODO: error handling
+    }
+
+    $scope.handleLoadedCategories = function (data, status)
+    {
+        var datalength = data.length;
+        for (var i = 0 ; i < datalength ; ++i)
+        {
+            $scope.categories.push({name: data[i], active: true});
+        }
+    }
+
+    $scope.getCategories();
+    console.log($scope.categories);
 
     function initializeWord ()
     {
@@ -138,11 +158,38 @@ function WordCtrl($scope, $http)
         $scope.newWord();
     }
 
+    $scope.getWordOptions = function()
+    {
+        // Finds unselected categories
+        categories = [];
+        catLength = $scope.categories.length;
+        for (i = 0 ; i < catLength ; i++)
+        {
+            category = $scope.categories[i];
+            if (!category.active)
+            {
+                categories.push(category.name);
+            }
+        }
+        // If no category is selected, it uses all categories
+        if (categories.length == catLength)
+        {
+            categories = [];
+        }
+        options  = 'number=' + 15;
+        options += '&minLength=' + 0;
+        options += '&maxLength=' + 20;
+        options += '&categories=' + categories.join(';');
+
+        return options;
+    }
+
     $scope.getWords = function()
     {
-        $http.get($scope.data_url).success($scope.handleLoadedWords);
+        contentType = {'Content-Type': 'application/x-www-form-urlencoded'};
+        $http({method: 'POST', url: $scope.data_url, data: $scope.getWordOptions(), headers: contentType})
+            .success($scope.handleLoadedWords);
         //TODO: error handling
-
     }
 
     $scope.newWord = function ()
@@ -185,6 +232,20 @@ function WordCtrl($scope, $http)
     $scope.printCursor = function(idx)
     {
         return (idx == $scope.pointer);
+    }
+
+    $scope.toggleCategory = function (idx)
+    {
+        $scope.categories[idx].active = !$scope.categories[idx].active;
+    }
+
+    $scope.toggleAllCategories = function (status)
+    {
+        var catlength = $scope.categories.length;
+        for (var i = 0 ; i < catlength ; ++i)
+        {
+            $scope.categories[i].active = status;
+        }
     }
 
     $(document).keydown(function(e){

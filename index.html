@@ -52,6 +52,14 @@
                 <div id="game-wrapper">
                     <div id="get-list-wrapper" class="pane" ng-show="wordsList.length == 0 && word.length == 0">
                         <span class="button" ng-click="getWords()">Get words!</span>
+                        <div id="categories-options">
+                            Categories:
+                            <a href="" ng-click="toggleAllCategories(true)">All</a>
+                            <a href="" ng-click="toggleAllCategories(false)">None</a>
+                        </div>
+                        <ul id="categories-list">
+                            <li ng-repeat="category in categories" ng-click="toggleCategory($index)" class="category-{{category.active}}">{{category.name}}</li>
+                        </ul>
                     </div>
                     <div ng-show="word.length > 0 && !result" id="translation-wrapper" class="pane">
                         <div id="translation-translation">
