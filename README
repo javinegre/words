@@ -3,7 +3,9 @@ Temporary README
 
 TODO list
 ---------
+ - Improve short-cuts
  - Handle AJAX error responses
+ - AJAX security
  - Document main.js
  - Rewrite main.css (use lesscss)
  - Get dutch meanings from DB
