@@ -229,6 +229,13 @@ function WordCtrl($scope, $http)
         }
     }
 
+    $scope.endGame = function()
+    {
+
+        $scope.wordsList = [];
+        $scope.nextWord();
+    }
+
     $scope.printCursor = function(idx)
     {
         return (idx == $scope.pointer);
@@ -307,6 +314,10 @@ function WordCtrl($scope, $http)
             else if (charCode == 39) // Right arrow
             {
                 $scope.pointerUp();
+            }
+            else if (charCode == 27) // Escape
+            {
+                $scope.endGame();
             }
         }
         $scope.checkResult();
