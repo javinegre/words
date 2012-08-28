@@ -8,8 +8,12 @@ body {
     clear: both;
 }
 
+#header {
+    margin: 10px 4% 5px 4%;
+}
+
 #game-wrapper {
-    margin: 30px 5% 30px 5%;
+    margin: 20px 5% 30px 5%;
 }
 
 .pane {
@@ -156,7 +160,8 @@ ul#translation-meanings li {
 }
 
 #shorcuts-wrapper {
-    margin: 35px 12% 0px 12%;
+    margin: 10px 12% 0px 12%;
+    font-size: 0.9em;
 }
 
 #shorcuts-wrapper > span {
@@ -183,7 +188,7 @@ ul#translation-meanings li {
     display: inline;
     border: 1px solid #E0E0E0;
     padding: 1px 12px;
-    margin: 0px 5px 0px 0px;
+    margin: 0px 2px 0px 0px;
     color: #666666;
     border-radius: 3px;
     box-shadow: 1px 1px 1px #D0D0D0;
