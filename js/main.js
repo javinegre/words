@@ -263,15 +263,10 @@ function WordCtrl($scope, $http)
             $scope.getWords();
         }
         // Shortcuts
-        else if (e.shiftKey === true)
+        else if (e.ctrlKey === true)
         {
-            // [shift + H]
-            if (charCode == 72)
-            {
-                $scope.hintLetter();
-            }
-            // [shift + N]
-            else if (charCode == 78)
+            // [Control + Intro]
+            if (charCode == 13)
             {
                 $scope.nextWord();
             }
@@ -292,6 +287,10 @@ function WordCtrl($scope, $http)
             )
             {
                 $scope.updChar(charCode);
+            }
+            else if (charCode == 9) // [TAB]
+            {
+                $scope.hintLetter();
             }
             else if (charCode == 8) // Backspace
             {
